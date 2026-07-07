@@ -1,0 +1,282 @@
+[
+  {
+    "id": "RULE-004",
+    "category": "user_cues",
+    "content": "Pay attention to the user's preference for older movies and their emotional response to specific films to guide recommendations.",
+    "helpful": 15,
+    "harmful": 13
+  },
+  {
+    "id": "RULE-026",
+    "category": "User Cues",
+    "content": "Pay attention to user dissatisfaction with repetitive themes and ask for specific examples of liked films to better understand preferences.",
+    "helpful": 2,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-101",
+    "category": "user_cue_reading",
+    "content": "Pay attention to specific mentions of liked movies to identify patterns and preferences.",
+    "helpful": 2,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-064",
+    "category": "Genre Mapping",
+    "content": "Highlight musicals with strong theatrical elements and positive user feedback on stage performances",
+    "helpful": 2,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-057",
+    "category": "user_cues",
+    "content": "Pay attention to user feedback and avoid suggesting movies that are explicitly disliked.",
+    "helpful": 2,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-040",
+    "category": "genre_mapping",
+    "content": "Avoid recommending similar genre movies that are not explicitly mentioned by the user",
+    "helpful": 6,
+    "harmful": 5
+  },
+  {
+    "id": "RULE-065",
+    "category": "User Cues",
+    "content": "Leverage mentions of specific songs or theatrical experience to suggest relevant musicals",
+    "helpful": 2,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-067",
+    "category": "Avoiding Misinterpretation",
+    "content": "Clarify if a movie's premise might be misinterpreted, especially when it involves sensitive or complex themes.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-086",
+    "category": "user_cue_analysis",
+    "content": "Pay attention to specific actor preferences and aversions, as they can significantly influence movie reception.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-087",
+    "category": "Language Preference",
+    "content": "Prioritize movies in the preferred language, even if subtitles are acceptable, to better align with user preferences.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-088",
+    "category": "Genre Mapping",
+    "content": "Focus on specific sub-genres or tone preferences rather than broad genres when recommending.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-112",
+    "category": "user_cues",
+    "content": "Pay attention to specific actor preferences and highlight those in recommendations.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-119",
+    "category": "User Cues",
+    "content": "Pay attention to user feedback about specific emotional responses, such as enjoying sad or inspiring movies, to tailor recommendations more effectively.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-120",
+    "category": "Genre Mapping",
+    "content": "Focus on the emotional and visual tone rather than just genre labels when suggesting similar movies.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-121",
+    "category": "User Cues",
+    "content": "Pay attention to user's emotional response and specific praise to better align with their preferences.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-123",
+    "category": "Genre Mapping",
+    "content": "Highlight the unique aspects of a genre, such as real-life inspiration, to better align with user preferences.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-124",
+    "category": "User Cues",
+    "content": "Pay attention to user feedback about specific films to guide recommendations towards similar or related titles.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-125",
+    "category": "genre_tone_mapping",
+    "content": "Focus on matching the user's stated preferences for tone and theme rather than relying on popular or well-known titles.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-126",
+    "category": "Genre Mapping",
+    "content": "Focus on recent and popular comedies rather than older or less mainstream titles.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-127",
+    "category": "User Cues",
+    "content": "Pay attention to specific praise for certain movies to align recommendations with user preferences.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-128",
+    "category": "genre_tone_mapping",
+    "content": "Avoid recommending horror films with a focus on jump scares or supernatural elements if the user expresses a preference for more intelligent or atmospheric horror.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-129",
+    "category": "user_cue_reading",
+    "content": "Pay attention to user feedback that indicates a preference for specific subgenres or tones within horror, and adjust recommendations accordingly.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-130",
+    "category": "Genre Mapping",
+    "content": "Avoid recommending historical war films when the user's preference is for science fiction or fantasy.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-131",
+    "category": "Tone Matching",
+    "content": "Ensure recommendations align with the tone and genre of the user's preferred content, even if the subject matter is similar.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-132",
+    "category": "Genre Mapping",
+    "content": "Focus on matching specific genres or tones that the user explicitly mentions, rather than relying on broad horror categories.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-133",
+    "category": "User Cues",
+    "content": "Pay close attention to user preferences for specific sub-genres or emotional tones, such as suspense, psychological elements, or personal connections to certain themes.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-134",
+    "category": "genre_tone",
+    "content": "Focus on matching the tone and style of the movies the user explicitly praises, such as musical elements and family-friendly humor.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-135",
+    "category": "user_cues",
+    "content": "Pay close attention to specific positive feedback about certain aspects of movies, like music or humor, and prioritize those traits in recommendations.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-136",
+    "category": "Genre Mapping",
+    "content": "Focus on recent and popular titles within the same genre to align with user preferences",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-137",
+    "category": "Tone Matching",
+    "content": "Consider the tone and emotional impact of the movies, as users often seek consistency in their viewing experience",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-140",
+    "category": "genre_tone",
+    "content": "Focus on emotional depth and nostalgia when recommending animated films.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-141",
+    "category": "genre_tone_mapping",
+    "content": "Focus on matching the tone and era rather than just the genre when suggesting similar movies.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-142",
+    "category": "user_cues",
+    "content": "Pay attention to specific actor preferences and historical context when interpreting user interests.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-143",
+    "category": "genre_mapping",
+    "content": "Focus on core themes like suspense and giant monsters rather than specific sub-genres or time periods.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-144",
+    "category": "user_cues",
+    "content": "Prioritize movies that align with the user's expressed preferences, such as suspense and nostalgia for classic films.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-145",
+    "category": "genre_tone_mapping",
+    "content": "Prioritize movies that align with the user's expressed preferences in tone and genre, even if they are not explicitly stated.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-152",
+    "category": "Genre Mapping",
+    "content": "Focus on identifying and recommending movies that align with the user's stated preferences and explicitly mentioned favorites, rather than assuming based on similar titles or genres.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-153",
+    "category": "Genre Mapping",
+    "content": "Avoid recommending popular comedy genres if the user has shown disinterest in similar recent or mainstream comedies.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-157",
+    "category": "genre_tone_mapping",
+    "content": "Prioritize movies that blend action with humor based on user feedback, as users often prefer a mix of genres in their recommendations.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-158",
+    "category": "user_cue_reading",
+    "content": "Avoid assuming user preferences based on initial genre mentions; instead, ask for clarification on desired tone or specific elements within the genre.",
+    "helpful": 1,
+    "harmful": 0
+  }
+]

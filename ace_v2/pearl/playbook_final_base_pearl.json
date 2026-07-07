@@ -1,0 +1,282 @@
+[
+  {
+    "id": "RULE-128",
+    "category": "Genre Mapping",
+    "content": "Focus on the visual and thematic elements rather than just genre labels when matching preferences.",
+    "helpful": 6,
+    "harmful": 3
+  },
+  {
+    "id": "RULE-042",
+    "category": "Genre Mapping",
+    "content": "Avoid recommending war-themed movies when the user explicitly states they are not interested in war themes.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-066",
+    "category": "Genre Mapping",
+    "content": "Avoid recommending dark comedies if the user explicitly prefers a more serious approach with emotional storytelling.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-092",
+    "category": "Tone and Style",
+    "content": "Avoid recommending films with abstract or fragmented narratives if the user prefers balanced and emotionally engaging stories.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-138",
+    "category": "User Cues",
+    "content": "Pay close attention to user aversions and explicitly seek out movies that avoid those elements.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-143",
+    "category": "User Cues",
+    "content": "Pay close attention to shifts in user preferences, especially when they indicate a move away from previously suggested themes or tones.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-164",
+    "category": "Genre Mapping",
+    "content": "Focus on the specific visual and technical elements users value, such as practical effects, when suggesting horror films.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-172",
+    "category": "Genre Mapping",
+    "content": "Focus on matching the tone and pacing rather than specific genres when the user emphasizes style and flow.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-176",
+    "category": "Genre Mapping",
+    "content": "Focus on core themes rather than surface genres when matching user preferences.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-178",
+    "category": "Genre Mapping",
+    "content": "Avoid recommending movies with overt violence if the user finds it overwhelming, even if they enjoy action.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-179",
+    "category": "User Cues",
+    "content": "Pay close attention to specific feedback about previous recommendations to better align with the user's evolving preferences.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-180",
+    "category": "Genre Mapping",
+    "content": "Focus on core themes like suspense and character development rather than relying on genre labels alone.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-181",
+    "category": "User Cues",
+    "content": "Pay close attention to explicit feedback about disliked elements, such as overcomplicated storylines or poor character portrayals.",
+    "helpful": 1,
+    "harmful": 0
+  },
+  {
+    "id": "RULE-174",
+    "category": "Tone Matching",
+    "content": "Focus on the emotional tone and balance of humor versus drama rather than just genre keywords.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-173",
+    "category": "Pitfall Avoidance",
+    "content": "Avoid recommending movies with intense or extreme content if the user's preferences suggest a more balanced or nuanced experience.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-166",
+    "category": "genre_tone_mapping",
+    "content": "Focus on balancing humor and suspense with a clear, distinct tone that aligns with the user's stated preferences.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-169",
+    "category": "User Cues",
+    "content": "Pay close attention to the user's emphasis on suspense and action, as these are strong indicators for specific sub-genres or film styles.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-161",
+    "category": "User Cues",
+    "content": "Pay close attention to subtle cues about desired tone, character portrayal, and narrative satisfaction.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-167",
+    "category": "user_cue_reading",
+    "content": "Pay close attention to subtle cues about the desired atmosphere and emotional journey, not just explicit genre labels.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-168",
+    "category": "Genre Mapping",
+    "content": "Focus on matching the specific tone and pacing preferences rather than just genre labels.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-154",
+    "category": "Genre Mapping",
+    "content": "Focus on core preferences like action and visuals rather than thematic elements when recommending.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-160",
+    "category": "User Cues",
+    "content": "Prioritize understanding the user's preference for unconventional humor and unique acting styles over mainstream or well-known films.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-163",
+    "category": "user_cue_analysis",
+    "content": "Pay close attention to subtle cues like 'heart-breaking soundtrack' and 'stunning performances' which indicate a preference for emotionally resonant and visually rich films.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-147",
+    "category": "User Cues",
+    "content": "Pay close attention to subtle shifts in user preferences, such as a mention of comedic elements, to adjust recommendations accordingly.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-064",
+    "category": "Genre Mapping",
+    "content": "Avoid recommending older films that may not align with the user's modern action preferences unless they specifically mention an interest in classic cinema.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-131",
+    "category": "Pacing and Clarity",
+    "content": "Be cautious of recommending movies with slow pacing or confusing narratives, as these can detract from the overall experience of a romantic or tender film.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-152",
+    "category": "Genre Mapping",
+    "content": "Focus on specific visual and emotional elements like CGI quality and heroism when matching genres.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-141",
+    "category": "Genre Mapping",
+    "content": "Focus on the emotional and thematic resonance rather than just matching surface-level elements like musical numbers or cast diversity.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-083",
+    "category": "Character Cues",
+    "content": "Pay attention to specific character traits or actor mentions as they can indicate unique storytelling styles or genre expectations.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-136",
+    "category": "Pitfall Avoidance",
+    "content": "Avoid recommending films that are too similar to previously watched ones, even if they fit the stated genre, to prevent user fatigue and disinterest.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-133",
+    "category": "Genre Mapping",
+    "content": "Focus on the director's unique style and cultural context rather than just genre labels.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-134",
+    "category": "User Cues",
+    "content": "Pay close attention to specific mentions of director reputation and cultural elements when identifying preferences.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-119",
+    "category": "Genre Alignment",
+    "content": "Focus on specific historical or fantasy elements rather than broad genre mixes when matching user preferences.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-118",
+    "category": "Tone and Style",
+    "content": "Avoid recommending films with a predominantly dark or bleak tone if the user explicitly seeks a balance of humor and emotional impact, even within a thought-provoking context.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-113",
+    "category": "Genre Mapping",
+    "content": "Focus on animation and emotional depth when matching user preferences, but also consider historical or classic films that align with their appreciation for storytelling and cinematography.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-110",
+    "category": "User Cues",
+    "content": "Pay attention to specific feedback about previous recommendations, such as disliking certain elements like lack of excitement or believability, and adjust recommendations accordingly.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-104",
+    "category": "User Cues",
+    "content": "Pay close attention to shifts in user preferences, especially when they mention specific elements like documentary style or global issues.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-108",
+    "category": "User Cues",
+    "content": "Pay close attention to specific emotional and conceptual triggers mentioned by the user, as these are key to accurate recommendations.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-115",
+    "category": "Genre Mapping",
+    "content": "Focus on the emotional and narrative depth rather than just matching surface-level genres.",
+    "helpful": 1,
+    "harmful": 1
+  },
+  {
+    "id": "RULE-175",
+    "category": "User Cues",
+    "content": "Pay close attention to shifts in user preferences, especially when they explicitly mention avoiding certain tones or depths.",
+    "helpful": 1,
+    "harmful": 2
+  }
+]
