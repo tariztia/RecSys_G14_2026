@@ -1,0 +1,10 @@
+[
+  {
+    "idx": 1139,
+    "error": "[dc-pearl 23/60 idx=1139] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 653,
+    "error": "[dc-pearl 25/60 idx=653] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

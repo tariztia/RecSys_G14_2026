@@ -1,0 +1,66 @@
+[
+  {
+    "idx": 357,
+    "error": "[reflexion-redial 30/60 idx=357] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 769,
+    "error": "[reflexion-redial 32/60 idx=769] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 818,
+    "error": "[reflexion-redial 36/60 idx=818] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 948,
+    "error": "[reflexion-redial 21/80 idx=948] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 1017,
+    "error": "[reflexion-redial 23/80 idx=1017] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 642,
+    "error": "[reflexion-redial 25/80 idx=642] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 368,
+    "error": "[reflexion-redial 27/80 idx=368] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 776,
+    "error": "[reflexion-redial 29/80 idx=776] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 504,
+    "error": "[reflexion-redial 31/80 idx=504] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 865,
+    "error": "[reflexion-redial 34/80 idx=865] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 613,
+    "error": "[reflexion-redial 38/80 idx=613] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 1213,
+    "error": "[reflexion-redial 41/80 idx=1213] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 862,
+    "error": "[reflexion-redial 43/80 idx=862] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 1246,
+    "error": "[reflexion-redial 45/80 idx=1246] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 824,
+    "error": "[reflexion-redial 47/80 idx=824] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 449,
+    "error": "[reflexion-redial 49/80 idx=449] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

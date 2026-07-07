@@ -1,0 +1,2639 @@
+[
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for Bruce Willis, an intense/gritty tone, and a seasoned director (Tony Scott), and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a Bruce Willis movie with a gritty tone, following the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (Bruce Willis, gritty role, memorable opening) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 0
+  },
+  {
+    "relevance_reasoning": "The movie 'The Fugitive' aligns with the user's request for balanced character portrayals and a positive/patriotic context, though it lacks the sports element requested earlier.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's latest critique regarding character detail and provides a list of alternatives that also touch upon previous preferences like patriotism and sports.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's protagonist's portrayal to the user's stated preference for balanced and detailed character actions.",
+    "explainability_score": 5,
+    "idx": 1
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for action thrillers with gripping storylines and strong performances, and 'The Woman in the Window' is a psychological thriller that fits the intensity and storyline requirements.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides new recommendations immediately after the user had already agreed to watch a previous suggestion, which feels slightly abrupt but remains on topic.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (intense psychological thriller, gripping storyline, strong performances) to the preferences the user stated earlier.",
+    "explainability_score": 5,
+    "idx": 2
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for outstanding performances similar to Tallulah Bankhead's, and 'The Best Years of Our Lives' is renowned for its acting, though it doesn't directly mirror Bankhead's specific style.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant responds to the request for outstanding performances, although the list of additional recommendations is repetitive and poorly formatted.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the recommendation to the user's stated preference for powerful performances and character development.",
+    "explainability_score": 4,
+    "idx": 3
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Mean Girls' perfectly matches the user's specific request for a feel-good movie exploring the experience of being the 'hot chick' at school.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request for a specific theme and provides a list of similar titles.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes (feel-good, 'hot chick' at school) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 4
+  },
+  {
+    "relevance_reasoning": "The movie is a heartwarming, family-friendly film with high production values and authentic performances, aligning with all the user's stated preferences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant acknowledges the user's previous rejections and pivots to a movie that avoids the 'cruel' themes of the previous suggestion while meeting the user's criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (heartwarming, chemistry, production values) to the specific preferences the user mentioned.",
+    "explainability_score": 5,
+    "idx": 5
+  },
+  {
+    "relevance_reasoning": "The movie blends dark comedy and tragedy (political turmoil) and avoids found-footage, aligning with the user's specific request for a mix of tragedy and comedy.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of found-footage and their request for a mix of tragedy and comedy.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's blend of dark comedy and political thriller elements to the user's preference for a mix of tragedy and comedy.",
+    "explainability_score": 5,
+    "idx": 8
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for classic humor, strong performances, and a relatively simple (though eccentric) plot.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous recommendation and pivots to a new suggestion based on the updated criteria.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (performances, plot, humor) to the preferences the user stated in the last turn.",
+    "explainability_score": 5,
+    "idx": 9
+  },
+  {
+    "relevance_reasoning": "The first recommendation is an animated film that balances humor and emotion, directly matching the user's repeated requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant finally acknowledges the user's specific request for animation after two failed attempts, making this a natural correction.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (animated, balance of humor and touching moments) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 10
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for stunning visuals, uniqueness, and exceptional performances, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with the previous realistic recommendation and pivots back to the requested cinematic quality.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (stunning visuals, unique storytelling) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 11
+  },
+  {
+    "relevance_reasoning": "The movie aligns with the user's request for realistic human nature, strong bonds/friendships, and emotional impact.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a movie that adds the element of strong bonds to the previously discussed themes.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences mentioned by the user (human nature, bonds/friendships, emotional impact).",
+    "explainability_score": 5,
+    "idx": 12
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a crime/thriller with a disconcerting shootout and psychosexual motives.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a change in genre and theme from the previous turns.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (shootout scene, psychosexual motives) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 13
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for a mix of humor, romance, and historical/dramatic elements; 'The Pursuit of Happyness' is a heavy drama with very little humor or romance.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant acknowledges the need for a new recommendation but fails to synthesize the user's specific request for a balance of humor and romance after the previous failure.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification focuses on drama and emotional depth but completely ignores the user's explicit request for humor and romantic elements.",
+    "explainability_score": 3,
+    "idx": 14
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's explicit request for a mystery thriller with a captivating storyline and suspense.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's correction and returns to the requested genre after a previous mismatch.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (mystery, suspense, captivating storyline) to the preferences the user stated in the last turn.",
+    "explainability_score": 5,
+    "idx": 15
+  },
+  {
+    "relevance_reasoning": "The recommendation ignores the user's specific request for detailed and real-looking digital creatures and instead reverts to the user's very first preference for emerging talent.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response ignores the user's most recent request regarding digital creatures and instead circles back to the beginning of the conversation.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification links the movie to the user's initial preference for emerging talent and nostalgia, but ignores the most recent constraints.",
+    "explainability_score": 4,
+    "idx": 16
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for action, comedy, stunning visuals, and a feel-good vibe, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting previous ones.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (action, visuals, feel-good vibe) to the preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 17
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for humor, beloved characters, a warm feel, and elements of fantasy/adventure.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's refined preferences after they rejected the previous suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences mentioned by the user (humor, beloved characters, warm feel, fantasy, and adventure).",
+    "explainability_score": 5,
+    "idx": 18
+  },
+  {
+    "relevance_reasoning": "The recommendation perfectly matches the user's explicit request for a movie about the magic of Santa Claus that is family-oriented.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's repeated request after two previous failed attempts, providing exactly what was asked for.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (magic of Santa Claus, heartwarming, family-friendly) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 19
+  },
+  {
+    "relevance_reasoning": "The movie 'The Fugitive' perfectly matches the user's request for realistic action, suspense, a thrilling storyline, and strong performances.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with previous suggestions and provides a movie that fits the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (suspense, realistic action, thrilling storyline) to the specific preferences the user just stated.",
+    "explainability_score": 5,
+    "idx": 20
+  },
+  {
+    "relevance_reasoning": "The movie is offbeat, unique, features strong character development, builds tension, and has an unexpected turn, matching all the user's explicit and implicit preferences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after several rejections and specifically counters previous complaints about pedestrian cinematography.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (offbeat narrative, character development, tension, unexpected turn) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 21
+  },
+  {
+    "relevance_reasoning": "The movie 'The Secret in Their Eyes' aligns well with the user's request for mature, intense psychological exploration and societal issues (justice/memory).",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous lighthearted suggestion and pivots to a more mature tone as requested.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of justice and memory to the user's request for psychological exploration and powerful performances.",
+    "explainability_score": 5,
+    "idx": 22
+  },
+  {
+    "relevance_reasoning": "The recommended movie is a crime thriller/heist film, not a war film, directly contradicting the user's repeated request for a movie about the effects of war.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant acknowledges the user's request for war themes and naturalistic performances, but the actual recommendation does not fit the context of the request.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification claims the movie explores characters affected by war, which is factually incorrect for this specific title, making the link to the user's preference false.",
+    "explainability_score": 2,
+    "idx": 23
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Dark Knight' perfectly aligns with the user's request for intense action, well-developed characters, and a thought-provoking storyline.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request while acknowledging the specific criteria they provided.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences (intense action, well-developed characters, thought-provoking storyline) stated by the user.",
+    "explainability_score": 5,
+    "idx": 24
+  },
+  {
+    "relevance_reasoning": "The movie 'The Revenant' aligns with the user's request for action-adventure, visually impressive scenes, and strong character interactions, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for new suggestions after rejecting previous ones, maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (stunning landscapes, deep interactions) to the user's stated preferences for visuals and character interactions.",
+    "explainability_score": 5,
+    "idx": 25
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a thought-provoking portrayal of a catastrophic event (societal collapse/infertility) and evokes sadness and loss.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a film about the horror of war/collapse and emotional weight.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of societal collapse and loss of hope to the user's request for a thought-provoking portrayal of a specific horror and a sense of sadness.",
+    "explainability_score": 5,
+    "idx": 26
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for something light-hearted and comedic; while 'The Pursuit of Happyness' has a positive message, it is primarily a heavy drama and not a light-hearted comedy.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant responds directly to the user's request for a more light-hearted and comedic option compared to the previous suggestion.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's positive message and humor to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 27
+  },
+  {
+    "relevance_reasoning": "The movie is a biographical drama with strong performances and a captivating story that avoids graphic violence and is generally more uplifting than the previous rejected suggestions.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a non-depressing alternative with strong acting and a good plot.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's specific requests for strong performances, a captivating storyline, and the absence of depressing/unlikable characters.",
+    "explainability_score": 5,
+    "idx": 28
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for emotional content, well-built characters, and a balance of humor and heartfelt moments, while avoiding heavy VFX.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a movie that balances humor and heart without implausible plot points.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (emotionally rich, well-developed characters, humor/heartfelt balance) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 29
+  },
+  {
+    "relevance_reasoning": "The movie '1917' perfectly aligns with the user's explicit request for a realistic war drama depicting the challenges of war.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's frustration with previous irrelevant suggestions and provides exactly what was requested.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's realistic portrayal of WWI soldiers to the user's request for the challenges of war.",
+    "explainability_score": 5,
+    "idx": 30
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Old School' perfectly matches the user's request for a comedy featuring a group of friends on an adventure with hilarious experiences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a change in vibe and a group-adventure comedy.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's plot (group of friends on an adventure) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 31
+  },
+  {
+    "relevance_reasoning": "The movie 'The Tree of Life' aligns perfectly with the user's request for a deeply touching emotional storyline, extraordinary performances, and visually unique storytelling.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request after several rejected suggestions, maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly mirrors the user's stated preferences for emotional storyline, performances, and visual uniqueness.",
+    "explainability_score": 5,
+    "idx": 32
+  },
+  {
+    "relevance_reasoning": "The movie 'Annihilation' perfectly matches the user's request for something abstract, surreal, and challenging to comprehend, while avoiding the shock-horror of the first suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback about 'Vertigo' being not abstract enough and provides a more fitting alternative.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's surrealism and challenging narrative to the user's stated preferences for abstract and surreal content.",
+    "explainability_score": 5,
+    "idx": 33
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'The Matrix', perfectly aligns with the user's request for sci-fi, action, stunning visuals, and virtual reality elements.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more sci-fi and VR elements while acknowledging the previous context.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (sci-fi, action, visuals, performances) to the preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 34
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Persona' aligns with the user's request for strong visual elements, a psychological edge, and a focus on cinematic film elements.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous suggestion and provides a new list based on the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's visual strikingness and cinematic focus to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 35
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for depth, tension, great acting, and visuals, while avoiding the clich\u00e9 characters they disliked in the previous suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more depth and tension following their rejection of the previous movie.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (tension, acting, visuals) to the specific preferences the user expressed in the conversation.",
+    "explainability_score": 5,
+    "idx": 36
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for musical elements, catchy songs, iconic imagery, and high-octane action.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for something more lighthearted, musical, and comedic compared to the previous Bond suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 37
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Mad Max: Fury Road' perfectly aligns with the user's request for action, impressive visual style, great stunts, and a well-paced story, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for another recommendation after they rejected the previous two suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (high-octane action, stunning visual style, well-paced story) to the preferences the user stated in the first turn.",
+    "explainability_score": 5,
+    "idx": 38
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns perfectly with the user's request for depth and a focus on ethical and humanitarian considerations, specifically regarding corporate/systemic impact.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's pivot from action movies to documentaries/thought-provoking pieces on ethics.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of technology and social media ethics to the user's stated preference for ethical and humanitarian considerations.",
+    "explainability_score": 5,
+    "idx": 39
+  },
+  {
+    "relevance_reasoning": "The movie 'The Theory of Everything' aligns perfectly with the user's request for touching moments and inspirational themes.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for inspirational and touching movies while acknowledging the shift in mood.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of love and resilience to the user's request for touching moments and inspirational themes.",
+    "explainability_score": 5,
+    "idx": 40
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for strong lead performances, dark/suspenseful tones, and mature stories, while avoiding the 'weak script' and 'one-dimensional characters' the user disliked in previous suggestions.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's critique of the previous recommendation and provides a high-quality alternative that fits all stated constraints.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (strong leads, dark tone, mature storyline, complex characters) to the specific preferences the user expressed throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 41
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Bourne Identity' aligns with the user's request for action, plot development, and great performances.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for more action and plot development compared to the previous suggestion.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's initial preferences for performances, action, and dialogue.",
+    "explainability_score": 4,
+    "idx": 42
+  },
+  {
+    "relevance_reasoning": "The movie 'Crazy, Stupid, Love' perfectly matches the user's request for a live-action romantic comedy with mature humor and themes of self-esteem and dating.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of 'Toy Story' by providing a live-action film with mature humor.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (mature humor, romantic storyline, self-esteem, asking someone out) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 43
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for well-paced storytelling, tension, and high production values (cinematography/music) mentioned throughout the conversation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new suggestion after rejecting the previous two, maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's cinematography, pacing, and music to the preferences the user stated in the current and previous turns.",
+    "explainability_score": 5,
+    "idx": 44
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns perfectly with the user's request for intense psychological depth and a thrilling storyline, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for something more intense and thrilling than the previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (psychological depth, thrilling storyline, strong performances) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 45
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Prisoners' perfectly aligns with the user's request for an intense, gripping mystery/thriller with a stylish feel and a strong twist.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous recommendations and focuses on the specific attributes requested in the last turn.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (gripping storyline, stylish feel, twist) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 46
+  },
+  {
+    "relevance_reasoning": "The assistant has not provided a recommendation in the message provided, but since the prompt asks to evaluate the response and the response is empty, it cannot meet the criteria.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's message is empty, failing to respond to the user's feedback.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No recommendation or justification was provided.",
+    "explainability_score": 1,
+    "idx": 47
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for an inspiring concept, character development, and a spiritual/personal journey, while avoiding the graphic violence they dislike.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant pivots away from the war/political themes the user found lacking in the previous suggestion to a more uplifting, character-driven narrative.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's focus on character development and its inspiring concept to the preferences the user stated in the first turn.",
+    "explainability_score": 5,
+    "idx": 48
+  },
+  {
+    "relevance_reasoning": "The user asked for a movie, but the assistant recommended 'The Witcher', which is a TV series, and while it fits the scenery and suspense criteria, it ignores the medium requested.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's request for more suspense and action while maintaining the scenery and acting requirements.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the recommendation to the user's stated preferences for scenery, acting, and suspense.",
+    "explainability_score": 5,
+    "idx": 49
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a comedy-drama with smart humor, great performances, and a unique concept.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's pivot away from documentaries toward a feel-good comedy-drama.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique concept, performances, smart humor) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 50
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for psychological elements, suspense, and strong performances, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific feedback regarding the lack of psychological and suspenseful elements in previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (psychological narrative, suspenseful tone) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 51
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Pianist' perfectly aligns with the user's request for a realistic portrayal of war, great performances, and historical events without being a previously mentioned title.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding realism and acting, providing a natural transition from the previous turn.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (Adrien Brody's performance and realistic war portrayal) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 52
+  },
+  {
+    "relevance_reasoning": "The first recommendation, The Grand Budapest Hotel, perfectly matches the user's request for great art direction, a good script, humor, and coming-of-age elements.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response is a direct and natural answer to the user's specific preferences provided in the previous turn.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (art direction, script, humor, coming-of-age) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 53
+  },
+  {
+    "relevance_reasoning": "The movie aligns with the user's request for character development, substance, and a thoughtful tone, while avoiding the 'quirky' or 'shallow' pitfalls of previous suggestions.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's critique of the previous recommendation's lack of depth and provides a more substantial alternative.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's focus on character development and its introspective tone to the user's stated preferences for substance and depth.",
+    "explainability_score": 5,
+    "idx": 54
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for sci-fi, 1980s pop culture references, and sassy humor, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for 1980s sci-fi and pop culture references.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (sci-fi, 1980s pop culture, sassy humor) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 55
+  },
+  {
+    "relevance_reasoning": "The movie Am\u00e9lie fits the user's request for great music, a mix of drama/comedy, a unique setting, and a strong story.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for music while maintaining the context of previous preferences like setting and genre.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's soundtrack to the user's request for music that complements the story and adds depth.",
+    "explainability_score": 5,
+    "idx": 56
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a new recommendation in the response provided, but since the prompt asks to evaluate the response and the response is empty, it cannot be scored. However, if the assistant's message is missing, it's a failure. Assuming the assistant's message is the empty string provided in the prompt, it fails all criteria.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant provided no response to the user's request for another recommendation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No justification was provided as there was no recommendation.",
+    "explainability_score": 1,
+    "idx": 57
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'Mad Max: Fury Road', aligns with the user's request for intense action, great visuals, and a strong musical score, though it lacks the requested comedic relief.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for more action and great visuals while acknowledging the preferences established throughout the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (action, visuals, score) to the preferences the user stated in the conversation.",
+    "explainability_score": 5,
+    "idx": 58
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for 'so bad it's good' movies and mentioned a specific character/actor vibe, and 'The Room' is the quintessential 'so bad it's good' movie.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant directly addresses the user's rejection of the previous suggestion and pivots to the 'so bad it's good' genre requested.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's reputation for bad acting and absurdity to the user's stated preference for 'so bad it's good' and 'over-the-top' content.",
+    "explainability_score": 5,
+    "idx": 59
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns perfectly with the user's request for a sci-fi comedy blend that captures a specific era and uses practical effects.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of Mary Poppins and returns to the specific sci-fi/comedy requirements mentioned throughout the chat.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (time-travel, era, practical effects) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 60
+  },
+  {
+    "relevance_reasoning": "The user requested a blend of comedy and drama with strong performances, and 'The Big Lebowski' fits this description well and has not been mentioned previously.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant directly addresses the user's rejection of rom-coms and pivots to the requested blend of comedy and drama.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (strong performances, quirky storyline, blend of comedy and drama) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 61
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for depth, substance, romantic themes, and characters searching for love, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more depth and substance compared to the previous recommendation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (storytelling, dialogue, visuals, love, and struggle) to the user's previously stated preferences.",
+    "explainability_score": 5,
+    "idx": 62
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a unique take on insanity and a captivating exploration of psychology, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a crime drama with a focus on insanity and psychology.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's psychological exploration and cinematography to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 65
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated they are not a fan of biographical dramas, but the assistant recommended 'The Theory of Everything', which is a biographical drama.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant acknowledges the request for an emotional story but ignores the explicit constraint regarding biographical films.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions 'fictionalized narrative', but the movie is a well-known biopic, failing to align with the user's specific request to avoid biographical dramas.",
+    "explainability_score": 2,
+    "idx": 66
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a serious tone, historical setting, human drama, and thought-provoking themes.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of comedy and their request for a more serious, historical drama.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's WWII setting and focus on human drama/character development to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 67
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a new recommendation in the final message provided for evaluation.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's message is missing, making it impossible to evaluate coherence against the conversation history.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No recommendation or justification was provided in the assistant's message.",
+    "explainability_score": 1,
+    "idx": 69
+  },
+  {
+    "relevance_reasoning": "The recommendation 'La La Land' aligns perfectly with the user's request for top-draw acting, beautiful settings, luminous photography, and breathtaking dance sequences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for a movie with specific performance and dance qualities after they rejected previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's cinematography, performances, and dance sequences to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 70
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for realistic feel, complex narratives, and stunning visuals, and it is a new title not previously mentioned.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for another recommendation after rejecting the previous two.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (healing/growth, nature visuals) to the user's stated preferences for complex narratives and stunning visualizations.",
+    "explainability_score": 5,
+    "idx": 71
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a compelling storyline, a coherent plot, and a style reminiscent of Hitchcock, while avoiding the horror/werewolf elements the user rejected.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback about the previous recommendation and provides a new suggestion that fits the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (compelling storyline, coherent plot, Hitchcockian style) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 72
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for a movie with a 'serious intent to frighten' (horror/thriller), but 'The Quiet Man' is a romantic comedy-drama.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant acknowledges the request for no cheap scares but ignores the primary request for a frightening movie, making the transition jarring.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions 'realistic portrayals' and 'no cheap scares', but fails to address why a romantic comedy fits a request for a frightening film.",
+    "explainability_score": 3,
+    "idx": 73
+  },
+  {
+    "relevance_reasoning": "The recommended movie 'The Intern' matches the request for humor and charming characters, but it completely ignores the user's explicit request for 'wonderful songs throughout the film'.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's last request for humor, visuals, and a fun approach, maintaining the flow of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (humor, charming characters, self-aware approach) to the preferences stated by the user.",
+    "explainability_score": 4,
+    "idx": 74
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Third Man' is a classic suspense film with high critical acclaim for its imagery and performances, aligning well with the user's specific requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant directly addresses the user's correction regarding the need for more suspense and classic thriller elements.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's atmosphere, performances, and imagery to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 75
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Deadpool' perfectly matches the user's request for fast-paced storytelling, snarky commentary, strong comedic performances, and unique super abilities.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous suggestion and pivots to a movie that fits the newly specified criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (snarky tone, super abilities, comedic performances) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 76
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for great cinematography, adventure, and a more lighthearted feel compared to the previous dark comedy suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after they rejected a movie they had already seen.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (cinematography, performances, adventure, realism) to the preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 77
+  },
+  {
+    "relevance_reasoning": "The Fugitive matches the user's request for intensity, action, suspense, and great performances, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a faster pace and more intensity compared to the previous suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (intense action, suspense, performances) to the preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 78
+  },
+  {
+    "relevance_reasoning": "The movie is not a superhero film, features a complex/vulnerable protagonist, and is widely regarded as a top-tier IMDb film with great cinematography.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant acknowledges the user's rejection of the previous superhero suggestion and pivots back to the user's core preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (vulnerable protagonist, cinematography, story) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 79
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Equalizer' aligns perfectly with the user's request for a serious tone, modern action, intense fight scenes, and crime elements.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of dark comedy and their request for a serious action/crime movie.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (serious tone, intense action, crime/justice plot) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 80
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Departed' aligns perfectly with the user's request for action, intrigue, and plot depth, while avoiding the Western genre they wanted to move away from.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for something different from Westerns and mirrors the specific descriptors used in the last turn.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (action, intrigue, choreography, complexity) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 81
+  },
+  {
+    "relevance_reasoning": "The movie 'Inception' aligns perfectly with the user's explicit requests for a clever plot, impressive imagery, and exciting action, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for another recommendation after they rejected the previous two suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences the user stated in the first turn.",
+    "explainability_score": 5,
+    "idx": 82
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's initial request for vibrant characters, heartwarming moments, and messages of kindness and strength, and addresses the later request for deeper emotional impact.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a movie with deeper emotional impact and character development while circling back to the user's original preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences the user stated in the first turn.",
+    "explainability_score": 5,
+    "idx": 83
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for high-octane action and special effects while avoiding the disliked actor.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a more intense and action-packed movie after rejecting the previous suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (high-octane action, special effects, frenetic pace) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 84
+  },
+  {
+    "relevance_reasoning": "The movie is modern, heartfelt, and explores a specific cultural/historical era (Celtic Ireland), aligning with the user's request for honesty, earnestness, and a specific era.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for an earnest film from a specific era, continuing the conversation flow naturally.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification mentions 'unique and authentic storytelling' and 'heartfelt narrative', which links back to the user's request for honesty and earnestness.",
+    "explainability_score": 4,
+    "idx": 85
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a sinister plot and great performances, although it is not a sequel.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant continues the cycle of providing new recommendations after the user has seen all previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (exceptional performances, sinister plot) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 86
+  },
+  {
+    "relevance_reasoning": "The movie is a comedy-drama that is smart and heartfelt, aligning with the user's request for a smart, funny, and dramatic film.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a comedy-drama and follows the flow of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (smart, heartfelt storytelling, humor, drama) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 87
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Thing' perfectly aligns with the user's request for a darker tone, horror, sci-fi, and strong performances.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's most recent feedback regarding tone and genre preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (darker tone, horror, sci-fi, strong performances) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 88
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a modern feel and the specific emotional blend of lust, desire, and contempt.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request while pivoting away from the previously rejected genres.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of lust, desire, and moral decay to the user's specific request.",
+    "explainability_score": 5,
+    "idx": 89
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a stylish, smart thriller with perfect casting and a definitive main character.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's feedback about the previous recommendation and pivots to the requested 'Bond-like' elegance and action.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (stylish visuals, smart thriller elements, casting) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 90
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Se7en' perfectly matches the user's request for a dark, psychological tone, a focus on the criminal mind, and a cat-and-mouse dynamic.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a darker tone and psychological elements, following the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's psychological nature and the cat-and-mouse dynamic to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 91
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for stunning cinematography and exceptional performances, and it is a new title not previously mentioned.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding pacing and photography from the previous turn.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (cinematography, pacing, performances) to the preferences the user just stated.",
+    "explainability_score": 5,
+    "idx": 92
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a modern action-comedy with a strong buddy dynamic and clever humor.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous recommendation and provides a new suggestion that fits the requested criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (buddy dynamic, supporting characters, humor) to the preferences the user stated in the conversation.",
+    "explainability_score": 5,
+    "idx": 93
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a new recommendation in the final message provided for evaluation, but based on the the prompt structure, it seems the assistant's message is missing. However, if we evaluate the previous turn's failure, the user explicitly asked for psychological horror and drama, which Transformers failed to meet. Since no new title is provided in the 'Assistant's message' block, it cannot be scored for relevance.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's message block is empty, meaning it fails to respond to the user's request for a different recommendation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No justification was provided as there was no message.",
+    "explainability_score": 1,
+    "idx": 94
+  },
+  {
+    "relevance_reasoning": "The user wants a gripping, powerful narrative and strong director execution; 'The Tree of Life' is highly acclaimed for its direction and narrative power, though it is more abstract than traditional 'gripping' plots.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant directly responds to the user's request for a new recommendation after two previous suggestions were rejected.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's narrative and storytelling to the user's request for a 'powerful and gripping narrative'.",
+    "explainability_score": 4,
+    "idx": 95
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'The Batman', aligns with the user's request for action, a strong cast, and stunning visuals, and it has not been mentioned previously.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting previous ones based on pacing.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (cast, pacing, visuals) to the specific preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 96
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for stunning cinematography, exploration, and the depth of the human experience, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request for adventure and exploration while maintaining the thread of emotional depth.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's cinematography and emotional journey to the user's stated preferences for exploration and human experience.",
+    "explainability_score": 5,
+    "idx": 97
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for artistic design, powerful storytelling, and exploration of human issues.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request while incorporating preferences mentioned earlier in the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (storytelling, human issues, artistic design) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 98
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'The Da Vinci Code', perfectly aligns with the user's request for historical treasure hunts, mystery, and adventure similar to National Treasure.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for historical intrigue and adventure, following the rejection of Ocean's Eleven.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (thrilling mystery, historical intrigue, fast-paced adventure) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 99
+  },
+  {
+    "relevance_reasoning": "The recommendation '1917' perfectly aligns with the user's explicit requests for historical themes, war movies, real-life events, and well-staged battle scenes.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for historical war movies after the assistant previously failed to provide them.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (historical narrative, battle scenes, character development) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 100
+  },
+  {
+    "relevance_reasoning": "The movie 'Pan's Labyrinth' perfectly matches the user's request for fantastical settings, unique characters, and imaginative elements, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after they rejected the previous one for being already seen.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (fantastical setting, unique characters, ensemble cast) to the specific criteria the user stated in the previous turn.",
+    "explainability_score": 5,
+    "idx": 101
+  },
+  {
+    "relevance_reasoning": "The recommendation ignores the user's specific request for a mix of sci-fi, western, and post-apocalyptic elements, focusing only on the humor/over-the-top request.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's request for more humor and over-the-top elements from the previous turn.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's 'darkly comedic' and 'over-the-top' nature to the user's explicit request for those qualities.",
+    "explainability_score": 4,
+    "idx": 102
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Royal Tenenbaums' aligns perfectly with the user's specific request for Wes Anderson's style and the specific narrative device of epistolary correspondence.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request and maintains the flow of the conversation by refining the suggestions based on feedback.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (visual texture and epistolary correspondence) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 103
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Departed' aligns with the user's request for action, complex characters, and a fast pace, and it also touches upon the heist/crime elements mentioned earlier.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a different genre with more action while maintaining the requirements for character complexity and pace.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (complex characters, fast-paced, action/drama) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 104
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for vivid time/place, deliberate use of flashbacks, and high production values/acting.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for a specific style of storytelling and vivid setting.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (vivid portrayal, flashbacks) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 105
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a claustrophobic/volatile setting, unique premise, and an extreme ending transition, while avoiding the CGI/action tropes they disliked in the previous suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation that avoids the pitfalls of the previous ones while maintaining the desired atmosphere.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (claustrophobic setting, unique premise, extreme ending) to the specific preferences the user stated earlier in the conversation.",
+    "explainability_score": 5,
+    "idx": 106
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a unique and artful presentation of humor and a light-hearted tone, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new movie with a specific style of humor, following the rejection of 'The Hangover'.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's unique visual style and narrative structure to the user's request for an 'artful presentation of humor'.",
+    "explainability_score": 5,
+    "idx": 107
+  },
+  {
+    "relevance_reasoning": "The movie is a period piece with high production value, fitting the user's request for a different genre and a strong presentation of a time period/event.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a different genre and a different fashion of presenting themes.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification links the movie's cinematography and character development to the user's previous requests for interesting camera work and engaging characters.",
+    "explainability_score": 5,
+    "idx": 108
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Leftovers' is actually a TV series, not a movie, and while it fits the thematic request, it ignores the user's specific request for a movie.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's feedback about wanting more varied themes and realistic portraits without clich\u00e9s.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification repeats the user's own words ('great performances', 'deep, thought-provoking themes') without explaining how the specific movie attributes satisfy those needs.",
+    "explainability_score": 3,
+    "idx": 109
+  },
+  {
+    "relevance_reasoning": "The movie is a psychological crime drama with a complex plot and strong performances, aligning with the user's request for depth and a condensed, compelling portrayal.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with the pacing of the previous suggestion by offering a 'tightly woven plot'.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's psychological exploration and plot structure to the user's stated preferences for depth and compelling character portrayals.",
+    "explainability_score": 5,
+    "idx": 110
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a new recommendation in the final message provided for evaluation.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's message is missing, making it impossible to evaluate coherence against the conversation history.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No recommendation or justification was provided in the assistant's message.",
+    "explainability_score": 1,
+    "idx": 111
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for strong performances, life issues, and a good musical score, while avoiding the romantic turmoil they disliked in the previous suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous movie and provides new alternatives based on the established criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (character portrayals, life issues, musical score) to the preferences the user stated in the second turn.",
+    "explainability_score": 5,
+    "idx": 112
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a balance of suspense and relaxed tone, as well as their preference for visual imagery and emotional transformation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a movie that balances suspense and a relaxed tone while acknowledging previous preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for suspense, relaxed tone, visual imagery, and emotional transformation.",
+    "explainability_score": 5,
+    "idx": 113
+  },
+  {
+    "relevance_reasoning": "The first recommendation directly matches the user's very specific request for a movie about a virus giving people supernatural abilities.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request and follows the flow of the conversation perfectly.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's plot (virus/supernatural abilities) to the user's stated preference.",
+    "explainability_score": 5,
+    "idx": 114
+  },
+  {
+    "relevance_reasoning": "The movie matches all explicit preferences: 80s setting, nostalgia, comedy, and specifically addresses the user's repeated request for depth in character development and interactions.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with previous suggestions by providing a film that prioritizes character depth over slapstick or raunchy humor.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (coming-of-age, character development, 80s setting) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 115
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a realistic mystery/thriller with deep storylines, avoiding the sci-fi/horror elements they rejected.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous recommendation and provides alternatives that fit the new criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's realistic character portrayal and intricate storyline to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 116
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for an outlandish premise and a breezy, watchable quality, while avoiding the previously rejected genres of action and horror.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for a specific style of movie after several failed attempts.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (outlandish premise, breezy humor) to the specific preferences stated by the user in the last turn.",
+    "explainability_score": 5,
+    "idx": 117
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Inception' perfectly matches the user's request for intense dream sequences, flashbacks, and strong acting.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific refinements and follows the flow of the conversation naturally.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (dream sequences, flashbacks, DiCaprio's acting) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 118
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for mature themes, intense narrative, enigmatic characters, strong visuals, and steady cinematography.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dislike of shaky cam and provides a new suggestion that fits the established criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (visuals, music, acting, narrative) to the specific preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 119
+  },
+  {
+    "relevance_reasoning": "The movie 'The Secret Life of Walter Mitty' does not feature a 'sinister' element, contradicting the user's specific request for a balance of normalcy and the sinister.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant responds directly to the user's last request, though the choice of movie is poor.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The assistant simply parrots the user's requested attributes back to them without explaining how the movie actually embodies those traits.",
+    "explainability_score": 2,
+    "idx": 120
+  },
+  {
+    "relevance_reasoning": "The movie is light-hearted, funny, and features quirky characters, matching the user's general preferences, though it doesn't specifically address the 'struggle to write a film' niche mentioned in the second turn.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after they rejected the previous suggestion.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's attributes (quirky, light-hearted, unique characters) directly to the preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 121
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a unique plot, strong atmosphere, and setting, and it has not been mentioned previously in the conversation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with previous plot and character development by offering a film known for its unique plot.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique plot, setting, atmosphere) to the specific preferences the user stated in the last turn and earlier.",
+    "explainability_score": 5,
+    "idx": 122
+  },
+  {
+    "relevance_reasoning": "The movie is a live-action action film with a strong plot, matching the user's request for adrenaline and depth, though it lacks the comedy elements requested earlier.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's rejection of animated films and their preference for live-action adrenaline rushes.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification links the movie's high-octane action and character development to the user's specific requests for adrenaline and depth.",
+    "explainability_score": 5,
+    "idx": 123
+  },
+  {
+    "relevance_reasoning": "The movie is a drama with a unique storytelling style and realistic social commentary, aligning with the user's request for unpredictability and realism.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with the previous recommendation's lack of realism and their desire for unique storytelling.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique style, balanced portrayal of themes) to the user's specific requests for unpredictability and realism.",
+    "explainability_score": 5,
+    "idx": 124
+  },
+  {
+    "relevance_reasoning": "The recommendation is a modern film with mystery elements, strong character development, and avoids the horror/violence the user explicitly rejected.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of horror and their preference for subtlety and modern storytelling.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (character development, subtle storytelling, mystery) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 125
+  },
+  {
+    "relevance_reasoning": "The movie is a heartfelt drama that avoids the violence the user dislikes and features the great acting they requested, though it lacks the 'adventure' element in a traditional sense.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a non-violent movie with great performances and a promising storyline.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (heartfelt drama, great acting, compelling storyline) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 126
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for action, crime, and chemistry between leads, and it is a new recommendation not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new movie while incorporating the specific criteria mentioned in the last turn.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (intense storylines, action, chemistry) to the preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 127
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's general preference for well-developed characters and smart plots, though it doesn't explicitly address the 'authentic feel' or 'past reviews' mentioned in the last turn.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response follows the conversation flow by providing a new recommendation after the user rejected the previous one, although it ignores the specific request to align with 'past reviews' (which were not provided in the history).",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's attributes (characters, plot, performances) directly to the preferences the user stated in their second turn.",
+    "explainability_score": 5,
+    "idx": 128
+  },
+  {
+    "relevance_reasoning": "The movie 'The Fountain' fits the sci-fi backdrop and unique concept, but it ignores the user's specific request for 'beautiful furniture' and 'prophetic warning'.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response follows the conversation flow and provides new recommendations after the user rejected the previous one.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification repeats the user's initial general preferences from the first turn but ignores the specific constraints mentioned in the most recent turn.",
+    "explainability_score": 3,
+    "idx": 129
+  },
+  {
+    "relevance_reasoning": "The movie 'The Mask' aligns with the user's request for a silly, comedic nature, a fantastic cast, and off-the-wall characters.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after they rejected the previous one.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for silliness, a fantastic cast, and off-the-wall characters.",
+    "explainability_score": 5,
+    "idx": 130
+  },
+  {
+    "relevance_reasoning": "The movie is a character-driven drama with a powerful narrative and no special effects, aligning with the user's request for a powerful message and lack of over-the-top moments.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a movie with a powerful message and narration while avoiding special effects.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's narrative and emotional resonance to the user's request for a powerful message and narration.",
+    "explainability_score": 5,
+    "idx": 131
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Third Man' aligns with the user's request for a dark atmosphere, well-constructed plot, and psychological depth, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's critique of the previous recommendation by focusing on character psychology and plot construction.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (character psychology, well-constructed plot, dark backdrop) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 132
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a touch of sci-fi, solid performances, and a balance of humor and action, though the setting is 1950s rather than strictly 'modern'.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's latest request for a modern setting and sci-fi elements while acknowledging the desired balance of humor and action.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (performances, humor/action balance, sci-fi) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 133
+  },
+  {
+    "relevance_reasoning": "The movie is a touching, funny book adaptation with clear storytelling, matching all the user's explicit preferences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting the previous one.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (touching, funny, adaptation, acting, storytelling) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 134
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for captivating visuals, locations, and humor, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request while acknowledging the preference for humor and visuals over the previous drama suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (stunning visuals, locations, humor) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 135
+  },
+  {
+    "relevance_reasoning": "The movie 'The Birdcage' aligns with the user's request for comedic elements, outrageous moments, strong performances, and a focus on relationships.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more comedy and outrageousness while maintaining the thread of previous preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (comedic elements, personal growth, relationships, outrageous moments, strong performances) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 136
+  },
+  {
+    "relevance_reasoning": "The movie 'The Departed' aligns with the user's request for great performances, a thrilling plot, and a rootable protagonist, while avoiding the sci-fi paradoxes and slow pacing they disliked.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest rejection of '12 Monkeys' and acknowledges the specific constraints regarding plot holes and paradoxes.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (strong performances, tightly woven plot) to the user's stated preferences and their specific dislike of plot holes/paradoxes.",
+    "explainability_score": 5,
+    "idx": 137
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'Inception', perfectly aligns with the user's request for sci-fi/fantasy elements, intense action, a creative concept, and strong performances.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for action, comedy (though Inception is light on comedy), and a creative concept while maintaining the thread of previous preferences.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (intense action, creative concept, strong performances) to the preferences the user stated in the conversation.",
+    "explainability_score": 5,
+    "idx": 138
+  },
+  {
+    "relevance_reasoning": "The movie is a character-driven drama with strong performances and emotional depth, aligning well with the user's request for a break from formulaic Hollywood and a focus on the head/heart dynamic.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous recommendations and provides a title that fits the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's character-driven narrative and emotional complexity to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 139
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a mix of comedy/drama that pokes fun at romantic clich\u00e9s and storytelling tropes.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting previous ones.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (poking fun at romantic clich\u00e9s and storytelling tropes) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 140
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for documentaries capturing real-life struggles and unfiltered experiences, and 'The Act of Killing' is a highly acclaimed documentary that fits these criteria perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant directly addresses the user's rejection of psychological thrillers and their request for raw, authentic documentaries.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's 'raw and unfiltered look' and 'genuine experiences' to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 141
+  },
+  {
+    "relevance_reasoning": "The movie blends technology and a unique cultural perspective (Chinese), though it lacks the 'magic' element requested, it aligns well with the user's preference for cultural blends and contemporary/futuristic tech.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for intensity, technology, and a blend of elements in a contemporary/near-future setting.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's blend of sci-fi and cultural perspective to the user's request for technology and cultural blends.",
+    "explainability_score": 5,
+    "idx": 142
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a heavy lead performance, strong cinematography, and a narrative touching on societal/personal struggles.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after they rejected previous ones.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the lead actor's performance and the technical aspects (cinematography/sound) to the user's specific requests.",
+    "explainability_score": 5,
+    "idx": 143
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Wailing' fits the horror mystery genre and the sense of dread, but it does not feature the 'realistic, home-made film effect' (found footage style) specifically requested by the user.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's request for a horror mystery with a minimalist approach, maintaining the flow of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's attributes (minimalist approach, dread, horror/mystery blend) to the user's stated preferences.",
+    "explainability_score": 4,
+    "idx": 144
+  },
+  {
+    "relevance_reasoning": "The movie is modern, visually stunning, original in concept, and humorous, matching all the user's explicit requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a modern film with a visually stunning concept and engaging storyline.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (visually stunning, original concept, engaging storyline) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 145
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a lighter tone, witty humor, and beautifully told stories with incredible sets.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request for a lighter tone and wittier humor while maintaining the thread of visual beauty.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's visual style, characters, and witty tone to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 146
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's repeated requests for originality, deep character development, and captivating settings, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with previous suggestions by offering a film known for its depth and originality.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (visually stunning settings, deep character development, unique premise) to the specific preferences the user expressed.",
+    "explainability_score": 5,
+    "idx": 147
+  },
+  {
+    "relevance_reasoning": "The recommendation is a crime thriller with a realist twist and strong acting, aligning perfectly with the user's repeated requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant acknowledges the user's preference for crime/thrillers after a failed attempt with a war movie, returning to the requested genre.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (crime thriller, realist twist, performances) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 148
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Evil Dead' aligns perfectly with the user's request for 80s horror, demonic possession, black humor, and special effects, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a more 'classic 80's horror vibe' after they rejected a previous suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (demonic possession, black humor, special effects) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 149
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for stunning visuals, mystery, and comedy, and has not been mentioned previously in the conversation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback about previous recommendations and provides a new suggestion that fits the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (visuals, story, mystery, comedy) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 150
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's requested genres (horror/thriller), avoids found footage, and aligns with the desire for intense openings and shocking endings.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant acknowledges the user's correction regarding genre and provides a suitable alternative that fits the established constraints.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (intense opening, characters, shocking ending) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 151
+  },
+  {
+    "relevance_reasoning": "The Matrix aligns perfectly with the user's request for great action, adventure, and a unique storyline, and it has not been mentioned previously in the conversation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for action/adventure and unique plots after rejecting previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (action, adventure, unique storyline) to the specific preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 152
+  },
+  {
+    "relevance_reasoning": "The movie 'The 400 Blows' aligns well with the user's request for subtle adaptations, gentle character portrayals, and outstanding performances.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's most recent set of preferences and follows the flow of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences mentioned by the user in the last turn.",
+    "explainability_score": 5,
+    "idx": 153
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Fountain' aligns with the user's request for unconventional storytelling and characters with depth.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for something more unconventional than previous suggestions and focuses on character depth.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's unconventional narrative and character depth to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 154
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Player' aligns with the user's request for a convincing plot, engaging storyline, and strong acting, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with previous suggestions and provides a new list based on the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (compelling plot, strong performances) to the user's stated preferences for a convincing plot and engaging storyline.",
+    "explainability_score": 5,
+    "idx": 155
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for themes of death and the afterlife with a light tone and unique storyline.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for a specific set of themes.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's themes and tone to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 156
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'Mad Max: Fury Road', perfectly aligns with the user's explicit requests for high-stakes action, intense chase scenes, and a strong antagonist.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for high-stakes action and a compelling antagonist after previous failed attempts.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (high-stakes action, chase scenes, antagonist) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 157
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Intern' aligns perfectly with the user's request for a balance of comedy, heartwarming moments, and a strong ensemble cast.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback about having seen the previous suggestion and their desire for more comedy.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (comedy, heartfelt moments, ensemble cast) to the preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 158
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for an unbelievable performance, a strong story, and the evocation of intense feelings.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's refined preferences after two previous failed attempts.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's emotional journey and performances to the user's request for intense feelings and strong performances.",
+    "explainability_score": 5,
+    "idx": 159
+  },
+  {
+    "relevance_reasoning": "The movie is live-action, features a complex story with thought-provoking themes, and high-quality acting, matching all the user's explicit requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for live-action complexity and moves away from the previous animation suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (profound themes, exceptional acting) to the user's stated preferences for thought-provoking themes and good acting.",
+    "explainability_score": 5,
+    "idx": 160
+  },
+  {
+    "relevance_reasoning": "The movie 'The Farewell' perfectly aligns with the user's requests for family dynamics, cultural traditions, and the immigrant experience in America.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for deeper family and cultural themes after they rejected previous action/sports-oriented suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of Chinese-American identity and family struggle to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 161
+  },
+  {
+    "relevance_reasoning": "The movie is a comedy with humor and an engaging plot, aligning with the user's request for action/humor and avoiding sequels, horror, and music-dramas.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a recommendation that aligns more closely with their preferences after rejecting several previous suggestions.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (action, humor, engaging plot) to the preferences the user stated in the conversation.",
+    "explainability_score": 5,
+    "idx": 162
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'Whiplash', perfectly aligns with the user's repeated request for music, concert performances, and intense storytelling.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for music-focused films after the assistant previously failed to provide one.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (performances, storytelling, music/concert dynamics) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 163
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for hilarious humor and a fiction-based plot, though it ignores the previously mentioned 'southern charm' and 'inherited plantations' preferences.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's last request for a fictional movie with hilarious humor.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's humor and fictional plot to the user's stated preferences.",
+    "explainability_score": 4,
+    "idx": 164
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Logan' perfectly matches the user's request for a grounded, realistic take on superheroes with a strong visual setting.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for a more grounded superhero movie after rejecting previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's grounded nature and visual portrayal to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 165
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a movie title in the response, but assuming it would recommend a classic animated musical like 'The Lion King' or 'Beauty and the Beast', it would fit. However, since the message is empty, it cannot be scored. Wait, the prompt asks to evaluate the assistant's message, but the message provided is empty. I will treat this as a failure to recommend.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant provided no response to the user's request for a more classic recommendation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No justification was provided because no recommendation was made.",
+    "explainability_score": 1,
+    "idx": 166
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the requested genres (action, sci-fi) and the user's recurring preference for visually stunning imagery and great performances, though 'Inception' is not typically characterized by 'terror'.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for a specific blend of genres and tone.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific genres and preferences mentioned by the user in the last turn.",
+    "explainability_score": 5,
+    "idx": 167
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Departed' perfectly matches the user's request for a serious tone, crime elements, and exploration of societal issues, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request for a serious crime movie with societal depth, following the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (serious tone, societal issues, crime elements) to the specific preferences stated by the user in the last turn.",
+    "explainability_score": 5,
+    "idx": 168
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a linear style, an ambitious approach to revenge/identity, and the previously mentioned preference for a dense and oppressive atmosphere.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting previous ones, maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for linear storytelling, authentic revenge approaches, and oppressive atmosphere.",
+    "explainability_score": 5,
+    "idx": 169
+  },
+  {
+    "relevance_reasoning": "The movie 'The Intern' aligns with the user's request for sharp writing, impressive acting, and a grounded portrayal of post-university/professional life.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous action-heavy recommendation and pivots back to the requested grounded setting.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (sharp writing, acting, post-grad life) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 170
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Intern' aligns with the user's request for a comedy/romance with a strong cast and more comedic elements than the previous suggestion.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous film and their request for more comedy and entertaining storytelling.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (comedy, heartfelt storytelling, strong cast) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 171
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a mature, gritty tone, strong world-building, and exploration of character history.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous suggestion and incorporates specific preferences mentioned throughout the chat.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (dark tone, world-building, character exploration) to the user's stated preferences and their mention of Harry Potter.",
+    "explainability_score": 5,
+    "idx": 172
+  },
+  {
+    "relevance_reasoning": "The movie aligns with the user's repeated request for emotional intensity and realistic human emotions, while avoiding the horror/violence they just rejected.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest preference for emotional realism over horror/violence.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification uses the user's own words ('engaging plot', 'emotional intensity', 'realistic portrayal of human emotions') to explain the choice.",
+    "explainability_score": 5,
+    "idx": 173
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's explicit request for a haunting score and a classic fairy tale quality.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's feedback and pivots from the previous failed recommendation to the new criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (haunting score, poetic storytelling, lush visuals) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 174
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a complex adaptation, strong performances, and skillful direction.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for a specific type of film.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (complex adaptation, strong performances, skillful direction) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 175
+  },
+  {
+    "relevance_reasoning": "The movie is live-action and high-action, but it lacks the significant humor/comedy element the user specifically requested as a counterbalance to the action.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's request for a non-CGI movie with action and entertainment.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The assistant claims the movie has a 'perfect mix of action and humor', which links to the user's preference, although this is a debatable description of The Bourne Identity.",
+    "explainability_score": 4,
+    "idx": 176
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Moana' aligns with the user's request for an animated movie with a beautiful, colorful world and funny characters.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a different setting and unique storyline after rejecting previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's colorful world and humorous storyline to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 177
+  },
+  {
+    "relevance_reasoning": "The movie 'The Tree of Life' aligns with the user's request for an intense, thought-provoking film that questions morality and existence.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's latest request for a more intense and thought-provoking film while maintaining the flow of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of morality and trust to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 178
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'The Florida Project', perfectly matches the user's request for a contemporary setting, ordinary people, and a raw, gritty portrayal of a specific place and time.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding 'Half Magic' and pivots to the requested 'raw and gritty' style.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (raw/gritty, specific place/time, soundtrack) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 179
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a complex, unpredictable plot and great acting, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting the previous one.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (complex plot, great performances) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 180
+  },
+  {
+    "relevance_reasoning": "The movie 'The Tree of Life' is widely recognized for its avant-garde artistry and meticulous cinematography, aligning well with the user's request for avant-garde music/art and attention to detail.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for avant-garde artistry and attention to detail, maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's visual style and depiction of performances to the user's stated preferences for avant-garde artistry and attention to detail.",
+    "explainability_score": 5,
+    "idx": 181
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for strong performances, personal growth, and struggles, while also incorporating the previously mentioned preference for music.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous recommendation and pivots to a movie that fits the new criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for performances, personal growth, and music.",
+    "explainability_score": 5,
+    "idx": 182
+  },
+  {
+    "relevance_reasoning": "The movie is grounded in reality, features a mystery/intrigue plot, and has strong character development, aligning with all the user's stated preferences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's critique of the previous recommendation by providing a film with more depth and a grounded feel.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (character development, action, storyline) to the preferences the user just expressed.",
+    "explainability_score": 5,
+    "idx": 183
+  },
+  {
+    "relevance_reasoning": "The user requested a movie with an adult tone, silliness, and fun, but 'The Pursuit of Happyness' is a heavy drama that lacks the 'silliness' and 'fun' requested.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant responds to the request for character development and humor, but ignores the specific request for 'silliness' and 'fun' in favor of a serious drama.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's character development and humor to the user's stated preferences.",
+    "explainability_score": 4,
+    "idx": 184
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a balance of depth, entertainment, and realism, while avoiding the dark humor/violence of the first suggestion and the heavy metaphor of the second.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's critique of 'Black Swan' and pivots to a movie that fits the newly defined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated desire for a balance of depth and entertainment.",
+    "explainability_score": 4,
+    "idx": 185
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Thing (1982)' perfectly aligns with the user's request for a dark, suspenseful atmosphere, a touch of horror, and a screenplay with twists.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request while acknowledging the specific elements they felt were missing from previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (dark, suspenseful atmosphere, twists) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 186
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for sharp dialogue and charming performances, and it has not been mentioned previously in the conversation.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for another recommendation after several previous suggestions were rejected as already seen.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences (dialogue, writing, timing, chemistry) stated by the user.",
+    "explainability_score": 5,
+    "idx": 187
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for flawless directing and emotional depth, though it lacks the martial arts scenes the user previously emphasized.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response follows the user's rejection of a musical and pivots back to the high-art, emotionally rich cinema the user expressed interest in.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's directing and personal character connection to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 188
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's specific requests for a sober tone, sensitive appreciation of art, and careful lighting.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's latest feedback and preferences while maintaining the flow of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (sober tone, appreciation of art, lighting) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 189
+  },
+  {
+    "relevance_reasoning": "The movie 'The Fugitive' is a well-regarded adaptation that matches the user's request for strong pacing, relentless narrative drive, and honoring source material.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's repeated requests for a recommendation that fits their specific criteria after several failed attempts.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (relentless narrative drive, strong pacing) to the specific preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 190
+  },
+  {
+    "relevance_reasoning": "The recommendation is a live-action movie with high-stakes action, a strong lead, and high production value, matching all the user's explicit and implicit preferences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a 'classic feel' (in terms of epic scale) and high-stakes action while acknowledging the previous feedback.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (high-stakes action, strong lead, cinematography, score) to the specific preferences mentioned by the user.",
+    "explainability_score": 5,
+    "idx": 191
+  },
+  {
+    "relevance_reasoning": "The user wants a comedy-focused mystery/thriller; while The Da Vinci Code has mystery and thriller elements, it is not a comedy and lacks the 'lighter tone' and 'humor throughout' the user explicitly requested.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant responds directly to the user's request for mystery and thriller elements, though it ignores the preference for humor being the primary focus.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (mystery, thriller, humor) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 192
+  },
+  {
+    "relevance_reasoning": "The recommendation 'La La Land' aligns with the user's request for a musical with strong character development and a well-defined plot, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's critique of the previous suggestion by focusing on storytelling and plot.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (character development, storytelling, musical numbers) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 193
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the serious tone and tight script preferences, but fails to address the specific request for a standout performance from an A-list actress in her breakout role, instead highlighting a male actor.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation based on the updated criteria, though it repeats a title in the list.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie to the user's preferences for a tight script, strong acting, and serious tone, but ignores the breakout actress requirement.",
+    "explainability_score": 4,
+    "idx": 194
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for clever wit, strong female leads, and a more 'edged' feel compared to the previous PG-13 suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's critique of the previous recommendation and pivots to a film that matches the requested tone.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (sharp wit, strong female leads) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 195
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a unique concept, depth, complexity, and well-executed humor, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more depth and complexity while acknowledging the need for a unique concept.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (complex storyline, unique concept, humor) to the specific preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 196
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for seasoned veterans, character development, and exploration of prejudice.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for acting quality and thematic depth following the rejection of Lifeboat.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (acting, character development, prejudice) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 197
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for a light-hearted comedy about 'sixth form days' (high school/college transition), but the first recommendation is a heavy drama about homelessness and fatherhood.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant acknowledges the request for humor and heart but ignores the specific setting (sixth form) and the primary genre request (comedy) for the lead recommendation.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions 'humor and heart' and 'character development', which are generic and do not address the user's specific request for a comedy about sixth form days.",
+    "explainability_score": 2,
+    "idx": 198
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Prisoners' aligns with the user's request for suspense and thrills while maintaining the emotional depth and strong acting they previously requested.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request for suspense and thrills while acknowledging the emotional tone established earlier.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's tense and suspenseful nature to the user's stated preference for being on the edge of their seat.",
+    "explainability_score": 5,
+    "idx": 199
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Fugitive' aligns with the user's request for adventure, excitement, and a timeless classic, though it is less focused on 'special effects' than other options.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's shift in mood toward adventure and excitement while maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (thrilling adventure, special effects, timeless storyline) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 200
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Fugitive' aligns with the user's request for an action-packed, thrilling plot and a strong lead performance, and it has not been mentioned previously.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for a shift toward action and thrillers, moving away from the previous horror/drama suggestions.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (strong lead, action-packed plot) to the user's stated preferences.",
+    "explainability_score": 4,
+    "idx": 201
+  },
+  {
+    "relevance_reasoning": "The recommendation is a biographical drama set in WWII, which perfectly matches the user's request for a narrative feature film that is either a biographical drama or a war-related story, while avoiding fantasy and crime dramas.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a narrative feature film instead of a documentary, while maintaining the context of the previous preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (biographical drama, WWII setting, grounded/thought-provoking) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 202
+  },
+  {
+    "relevance_reasoning": "The user requested a movie about an individual's life and impact in a specific field; 'The Theory of Everything' fits this perfectly as a biopic about Stephen Hawking in science.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a different field of impact and follows the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's focus on science to the user's request for a specific field of impact and mentions the outstanding performances requested earlier.",
+    "explainability_score": 5,
+    "idx": 203
+  },
+  {
+    "relevance_reasoning": "The movie 'The Secret Life of Pets' is a modern animated film and does not possess a 'retro Disney feel', though it does have friendship and adventure.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's request for a retro Disney feel and friendship/adventure elements.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification simply parrots the user's requested keywords without explaining how the movie actually embodies those traits.",
+    "explainability_score": 3,
+    "idx": 204
+  },
+  {
+    "relevance_reasoning": "The first recommended title was already mentioned and accepted by the user in the previous turn, violating the ANTI-ECHO RULE.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The response is a redundant summary of the previous turn rather than a natural progression of the conversation.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (performances, plot, 1970s vibe) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 205
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns perfectly with the user's repeated requests for a creepy atmosphere, evocative sequences, and a competent cast.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest feedback and preferences while maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences the user stated in the last turn.",
+    "explainability_score": 5,
+    "idx": 206
+  },
+  {
+    "relevance_reasoning": "The movie 'The Secret in Their Eyes' aligns with the user's request for a gripping, taut storyline and sinister characters, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request for a captivating and taut storyline while maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's narrative style to the user's request for a 'gripping and taut storyline'.",
+    "explainability_score": 4,
+    "idx": 208
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for witty dialogue and humor, though it is not a 'classic' in the vintage era sense, it fits the requested vibe.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for vintage feel and witty dialogue, following the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's quirky humor and clever dialogue to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 209
+  },
+  {
+    "relevance_reasoning": "The Social Network features the requested dynamic performances and a calculating, dialogue-driven narrative centered around depositions/interviews.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for slow, calculating interviews and dynamic acting.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's performances and narrative style to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 210
+  },
+  {
+    "relevance_reasoning": "The movie is a political satire with high irony and wit, matching the user's request for a unique take on a theme with humor and irony, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of serious themes and provides a recommendation that fits the requested 'unique take' and 'irony'.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (darkly humorous political satire, absurdity, irony) to the user's stated preferences for a unique concept and irony.",
+    "explainability_score": 5,
+    "idx": 211
+  },
+  {
+    "relevance_reasoning": "The recommendation 'La La Land' perfectly matches the user's request for romance, comedy, singing, dancing, and a feel-good factor.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more humor and light-heartedness compared to the previous suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's blend of romance, music, and comedy to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 212
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for realism, strong character presence, isolation, and an unexpected ending, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous suggestion and provides a new recommendation that aligns with the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (character presence, isolation, realism, unexpected ending) to the specific preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 213
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for intimate character connections and fascinating individuals, while avoiding the brutality they disliked.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's critique of the previous recommendation by focusing on character depth and intimacy.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly mirrors the user's stated preference for intimate connections and fascinating individuals.",
+    "explainability_score": 5,
+    "idx": 214
+  },
+  {
+    "relevance_reasoning": "The movie 'Ex Machina' perfectly aligns with the user's request for a combination of philosophy, sci-fi motifs, and thought-provoking themes.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for philosophy and sci-fi motifs, following the rejection of previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences, although it repeats the user's words almost verbatim.",
+    "explainability_score": 5,
+    "idx": 215
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns perfectly with the user's request for a maverick director and unconventional ties of love, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a certain directorial style and thematic complexity.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's director (Wes Anderson) and style to the user's request for a maverick director and unconventional approach to love.",
+    "explainability_score": 5,
+    "idx": 216
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for humor, grounded settings, and a nostalgic feel, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous drama suggestion and pivots back to the requested blend of humor and groundedness.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (humor, quirky characters, nostalgic/grounded setting) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 217
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a comedy with a great ensemble cast and fast-paced humor, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the action film and returns to the requested comedic tone.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (hilarious comedy, ensemble cast, fast-paced humor) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 218
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Logan' perfectly matches the user's request for a realistic superhero movie with a dark tone and great acting.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a realistic superhero movie after previous failed attempts.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (realistic superhero approach, dark/humorous tone, acting) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 219
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a strong cast, a mix of humor and poignancy, and high technical quality (camera work/music).",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's refined preferences from the last turn while maintaining the context of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (cast, humor/poignancy, camera work) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 220
+  },
+  {
+    "relevance_reasoning": "The movie is a live-action comedy-drama focusing on family and relationships, which aligns perfectly with the user's explicit requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a comedy-drama with a heartfelt message about family, following the rejection of previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's genre and themes (heartfelt comedy-drama, family, relationships) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 221
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'The Pursuit of Happyness', is a drama about homelessness and struggle; it lacks the comedy, romance, and sports elements requested by the user.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant acknowledges the user's request for lighthearted content but recommends a heavy drama, breaking the flow of the user's specific mood request.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification claims the movie combines comedy, romance, and sports, which is factually incorrect for this specific film, making the link to preferences false.",
+    "explainability_score": 2,
+    "idx": 222
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Moana' perfectly matches the user's request for an animated, adventurous, lighthearted, and family-friendly movie with colorful visuals.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant correctly pivots back to the user's original preferences after a failed attempt with a drama, directly addressing the request for something lighthearted.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (animated adventure, vibrant visuals, humor) to the preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 223
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a new recommendation in the response provided, but since the prompt asks to evaluate the final response and the message is empty, it cannot be scored. However, assuming the assistant is meant to respond to the user's feedback about wanting action and plot, a recommendation is missing.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's message is empty, failing to respond to the user's last turn.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No justification was provided as there was no recommendation.",
+    "explainability_score": 1,
+    "idx": 224
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a western/drama with comedy-laced script and naturalistic performances, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for comedy while maintaining the context of the previous preferences for drama and naturalism.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (gripping western drama, subtle comedy, naturalistic performances) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 225
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for intense, serious horror and avoids the horror-comedy genre they rejected.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response follows the conversation flow by providing a new recommendation after the user mentioned they had already seen the previous one.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's serious tone and intensity to the user's stated preferences.",
+    "explainability_score": 4,
+    "idx": 226
+  },
+  {
+    "relevance_reasoning": "The movie 'The Prestige' perfectly aligns with the user's request for a mystery puzzle with carefully planted clues and unexpected twists.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with predictable twists by offering a film known for its intricate plotting.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification links the movie's attributes (cleverly crafted storyline, twists) directly to the preferences the user expressed throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 227
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for adult appeal, surrealism, dark humor, and well-written characters.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with the previous family-friendly suggestion and pivots to the requested adult/surreal tone.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (surrealism, dark humor, characters) to the preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 228
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for great comedy, but 'The Secret of Kells' is a fantasy/drama and not primarily a comedy.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant responds directly to the user's request for a new recommendation based on updated preferences.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's unique music score and developed characters to the user's explicit request for an unconventional score and insightful character portrayal.",
+    "explainability_score": 5,
+    "idx": 229
+  },
+  {
+    "relevance_reasoning": "The recommended movie matches the user's request for something bizarre, shocking, and funny.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a unique and unconventional storyline.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (bizarre, shocking, dark humor) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 230
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a balanced narrative, a tight screenplay, and surprising elements, and it is a new title.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a new recommendation immediately after the user expressed satisfaction with a previous one, which is a bit abrupt but follows the logic of providing a list.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (balanced narrative, surprising twist, tight screenplay) to the preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 231
+  },
+  {
+    "relevance_reasoning": "The first recommendation, Coco, perfectly matches the user's request for animation, comedy/family themes, voice acting, and national pride (Mexican culture).",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant finally acknowledges the user's repeated requests for animation and specific themes after two failed attempts.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (animation, voice acting, cultural backdrop) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 232
+  },
+  {
+    "relevance_reasoning": "The recommendation Ex Machina aligns with the user's request for unique, original storylines and complex character development, and it is not a sequel.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant directly addresses the user's dislike for sequels and their preference for original, thought-provoking content.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique storyline, character development) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 233
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's explicit request for more action, adventure, and a compelling plot, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with the previous slow-paced recommendations by pivoting to high-stakes action films.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (strong acting, compelling storyline, action/adventure) to the preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 234
+  },
+  {
+    "relevance_reasoning": "The user wants a balance of action, comedy, and drama with a great storyline and acting; The Fabelmans is a drama/comedy but lacks the action component requested.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant responds directly to the user's request for a better recommendation after two failed attempts.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's attributes (storyline, acting, soundtrack) directly to the preferences the user explicitly stated in the first and third turns.",
+    "explainability_score": 5,
+    "idx": 235
+  },
+  {
+    "relevance_reasoning": "The user requested an upbeat and lively atmosphere, but 'La Haine' is a gritty, bleak social drama about police brutality and urban unrest, which contradicts the requested mood.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant acknowledges the request for a lively atmosphere but recommends a film that is tonally the opposite, and the list of additional recommendations is repetitive and nonsensical.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification claims the movie has a vibrant and energetic setting, which is a superficial attempt to link the film to the user's request without understanding the actual mood of the movie.",
+    "explainability_score": 3,
+    "idx": 236
+  },
+  {
+    "relevance_reasoning": "The recommended movie matches all the user's explicit requests for unexpected twists, mesmerizing acting, and rich character portrayals.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest feedback and provides a new set of recommendations based on the refined preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences mentioned by the user in the previous turn.",
+    "explainability_score": 5,
+    "idx": 237
+  },
+  {
+    "relevance_reasoning": "The movie is a biographical drama known for an Oscar-winning performance and a grounded, engaging story, which aligns with the user's request for great performances and believable elements.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for great performances and engaging storytelling after several failed attempts.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's 'powerful performances' and 'engaging story' to the user's stated preferences.",
+    "explainability_score": 4,
+    "idx": 238
+  },
+  {
+    "relevance_reasoning": "The first recommendation is a biographical drama with strong character study and emotional depth, matching all the user's stated preferences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for recommendations based on their specific tastes.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (character study, emotional depth, biography of Stephen Hawking) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 239
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's explicit requests for top-notch directing, cinematography, and witty humor, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after they rejected the previous two suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's cinematography and dialogue to the user's stated preferences for directing and humor.",
+    "explainability_score": 5,
+    "idx": 240
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a murder mystery with depth and great performances, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with previous suggestions by providing a movie with higher production value and better acting.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (murder mystery, strong performances, emotional depth) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 241
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a new recommendation in the final message provided for evaluation.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's message is empty, failing to respond to the user's last turn.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No recommendation or justification was provided.",
+    "explainability_score": 1,
+    "idx": 242
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Persona' aligns perfectly with the user's request for depth, complexity in script, and character development, while avoiding the action they wanted to minimize.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback about previous recommendations being too simple and provides a more complex alternative.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (deep character development, complex script) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 243
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for strong emotional characterization, rich cinematography, a serious tone, and a dark/philosophical storyline, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous suggestion and provides a new list based on the refined preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (emotional characterization, cinematography, serious tone) to the specific preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 244
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a thought-provoking examination of power/media with a touch of humor and avoids the 'too intense' violence of the previous suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a movie that examines attitudes toward media and power with humor.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's blend of dark comedy and political thriller to the user's request for a thought-provoking examination of media and power with humor.",
+    "explainability_score": 5,
+    "idx": 245
+  },
+  {
+    "relevance_reasoning": "The recommendation is grounded, meditative, and focuses on character development and subtle themes, aligning well with the user's repeated requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a quieter, more contemplative atmosphere after rejecting comedy-drama and fantasy.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's atmosphere and themes to the user's specific requests for a 'quiet, contemplative atmosphere' and 'subtle exploration of themes'.",
+    "explainability_score": 5,
+    "idx": 246
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for a mix of comedy and action, but The Last of the Mohicans is a historical drama/action film with virtually no comedy.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant acknowledges the request for pacing and cast but completely ignores the user's most recent request for comedy.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification links the movie to the user's previous preferences (pacing, small cast, storytelling) but fails to address the most recent request for comedy/action mix.",
+    "explainability_score": 4,
+    "idx": 247
+  },
+  {
+    "relevance_reasoning": "The recommendation provides a detailed setting and engaging story, but it's unclear if it meets the user's specific request for a 'natural' scenario compared to the previous stylized suggestions.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant acknowledges the user's repeated requests for specific features and provides a new set of options.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (performances, storyline, setting) to the preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 248
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for action and tension in their last two turns, but the assistant recommended a biographical drama, ignoring the request for action.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant ignores the user's specific feedback about wanting action and tension and instead reverts to the user's very first request for character development.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification repeats the user's initial preferences word-for-word but fails to address the more recent request for action/tension.",
+    "explainability_score": 4,
+    "idx": 249
+  },
+  {
+    "relevance_reasoning": "The movie is based on a true story, features a strong cast, and blends drama with an uplifting tone, matching the user's specific requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for a true story with a blend of drama and entertainment.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (true story, powerful performances, drama/inspiration) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 250
+  },
+  {
+    "relevance_reasoning": "The movie 'The Nice Guys' aligns well with the user's request for clever dialogue, action, and a balance of humor that doesn't get old, while avoiding the slow pacing they disliked in previous suggestions.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with the previous recommendation's pacing and dialogue, providing a new option that fits the requested criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (clever dialogue, character choices, balance of humor/action) to the specific preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 251
+  },
+  {
+    "relevance_reasoning": "The movie is a crime drama with an intricate plot and an ambiguous ending, matching all the user's explicit requests.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting previous ones.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (complex plot, character development, thought-provoking ending) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 252
+  },
+  {
+    "relevance_reasoning": "The assistant recommends a TV series instead of a movie, and it does not align with the user's preference for action/adventure or the style of Ang Lee.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The response acknowledges the request for well-paced narratives but fails to recognize that the user is specifically asking for movies, not TV shows.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions pacing and character development, which are general attributes and not specifically linked to the user's mention of Ang Lee's style.",
+    "explainability_score": 3,
+    "idx": 253
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for action, a unique story, and a 'cool and crisp' performance similar to Sean Connery.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request for a specific style of performance while acknowledging the previous constraints.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's performance style and action to the user's specific request for a 'cool and crisp' performance and a unique story.",
+    "explainability_score": 5,
+    "idx": 254
+  },
+  {
+    "relevance_reasoning": "The assistant has not yet provided a new recommendation in the final message provided for evaluation.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's message is missing, making it impossible to evaluate coherence against the conversation history.",
+    "coherence_score": 1,
+    "explainability_reasoning": "No recommendation or justification was provided in the assistant's message.",
+    "explainability_score": 1,
+    "idx": 255
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for tension, realistic portrayal of society/characters, and high production value (cinematography/soundtrack).",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous suggestion and pivots to a more realistic style as requested.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's specific requests for realistic portrayal, cinematography, and soundtrack.",
+    "explainability_score": 5,
+    "idx": 256
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'The Revenant', aligns perfectly with the user's request for a historical and adventurous theme featuring betrayal and intelligent storytelling.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for a historical/adventurous theme after the previous suggestion failed.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (historical setting, adventure, betrayal) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 257
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for live-action, engaging characters, and energetic action/tension, while avoiding musicals and animation.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after they rejected the plot of the previous one.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's attributes (action, characters, storyline) to the user's explicit preferences for energetic fight scenes and engaging characters.",
+    "explainability_score": 4,
+    "idx": 258
+  },
+  {
+    "relevance_reasoning": "The first recommendation, 'The Fugitive', aligns with the user's request for adventure, intense drama, and great performances.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's request for a different recommendation based on the specific criteria provided in the last turn.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (intense drama, thrilling adventure) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 259
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for non-stop thrills, mystery, a chilling atmosphere, and a great cast, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback about previous recommendations lacking thrills while maintaining the requested dark tone.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (non-stop thrills, chilling atmosphere, stellar cast) to the specific preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 260
+  },
+  {
+    "relevance_reasoning": "The movie 'The Mask' perfectly aligns with the user's request for action, comedy, colorful visuals, and a high gag factor.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's rejection of the previous serious drama and pivots back to the requested 'silliness' and 'entertainment'.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (action, comedy, colorful scenes, gag factor) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 261
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for an intriguing plot, good pacing, and gory scenes, while avoiding the 'shallow concept' and 'slow pace' they disliked in previous suggestions.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting the previous one based on pace and depth.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (gripping plot, well-paced, gory) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 262
+  },
+  {
+    "relevance_reasoning": "The movie 'The Departed' fits the user's request for an investigation-focused film with a professional protagonist, though it leans more towards crime than the 'classic espionage' feel mentioned earlier.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a 'cold-blooded professional with warmth and humor' and investigation focus.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's specific phrasing regarding the protagonist's personality and the focus on investigation.",
+    "explainability_score": 5,
+    "idx": 263
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's initial request for insight into social issues, human behavior, and complex characters.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant pivots back to the user's core preferences after a detour into animation, maintaining a logical flow based on the user's stated tastes.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of political power and human behavior to the user's stated preferences for insight into social issues and complex characters.",
+    "explainability_score": 5,
+    "idx": 265
+  },
+  {
+    "relevance_reasoning": "The recommendation is a grounded crime mystery with sophisticated characters, directly addressing the user's request for something realistic and character-driven.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest feedback regarding the dislike of horror/sci-fi and the desire for sophistication.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly mirrors the user's requested attributes: 'sophisticated and character-driven story with realistic and relatable characters'.",
+    "explainability_score": 5,
+    "idx": 266
+  },
+  {
+    "relevance_reasoning": "The first recommendation matches the user's request for a strong female lead and themes of betrayal and forgiveness.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's latest request while maintaining the context of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for a strong female lead, a corrupt legal system, and themes of betrayal and forgiveness.",
+    "explainability_score": 5,
+    "idx": 267
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for action, adventure, and a character-driven story, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more action while acknowledging the preference for character-driven narratives established in the previous turn.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's specific requests for action, adventure, character-driven stories, and seamless transitions.",
+    "explainability_score": 5,
+    "idx": 268
+  },
+  {
+    "relevance_reasoning": "The movie is a cult classic known for being a 'guilty pleasure' with high rewatchability, originality, and hilarious scenes, matching all the user's refined preferences.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a guilty pleasure with rewatchability and enjoyable moments after several failed attempts.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique, hilarious, sound storyline) to the specific preferences the user has repeated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 269
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Lavender Hill Mob' perfectly aligns with the user's request for Anglo-Saxon sang froid, droll humor, period charm, and clever wit.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a movie with period charm and clever wit, following the previous failed attempt with a thriller.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (Anglo-Saxon charm, clever wit, sharp script) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 270
+  },
+  {
+    "relevance_reasoning": "The recommendation 'La La Land' aligns with the user's request for a romantic subplot, masterful storytelling, and their earlier preferences for cinematography and musical pieces.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a romantic subplot and storytelling while acknowledging previous preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (cinematography, music, storylines, romantic subplot) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 271
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for strong performances and captivating visuals while rejecting 'over-the-top' styles; 'The Tree of Life' is renowned for its cinematography and grounded emotional weight.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant pivots away from the previously rejected comedic/over-the-top style to a more artistic and serious tone that aligns with the user's feedback.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's cinematography and performances to the user's stated preferences for visuals and strong acting.",
+    "explainability_score": 5,
+    "idx": 272
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for emotional storytelling, strong performances, and an immersive setting, while avoiding the 'too dark' tone of the previous suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with the previous recommendation and provides a new list based on the established preferences.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (performances, storytelling, setting) to the specific preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 273
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a unique premise, tight screenplay, great performances, and humor, and it was not previously mentioned.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's dissatisfaction with previous suggestions and provides a new recommendation that aligns with the refined criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique story, exceptional performances, humor) to the specific preferences the user stated.",
+    "explainability_score": 5,
+    "idx": 274
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a fantastic story, incredible acting, and a touch of sadness.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's most recent request while acknowledging previous preferences for emotional depth.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences the user just stated.",
+    "explainability_score": 5,
+    "idx": 275
+  },
+  {
+    "relevance_reasoning": "The movie perfectly matches the user's request for a thought-provoking narrative about the human experience while avoiding the mystery thriller genre and slapstick humor.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's last request and acknowledges the shift away from mystery thrillers.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's themes of memory, love, and identity to the user's request for a narrative that delves into the human experience.",
+    "explainability_score": 5,
+    "idx": 276
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for a light-hearted tone, humor, and old-world charm (1960s setting).",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for romance, humor, and old-world charm.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for tone, script, and performances.",
+    "explainability_score": 5,
+    "idx": 277
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's request for an uplifting and positive vibe and strong performances, but ignores the request for thrilling and suspenseful moments.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's request for a less intense, more positive movie compared to the previous suggestion.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's uplifting and positive nature to the user's stated preference for a positive vibe.",
+    "explainability_score": 4,
+    "idx": 278
+  },
+  {
+    "relevance_reasoning": "The recommendation 'La La Land' perfectly matches the user's request for energy, dancing, music, and exceptional acting.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for a movie with dancing and music while maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (dance sequences, music, stellar cast) to the user's specific requests.",
+    "explainability_score": 5,
+    "idx": 279
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Annihilation' aligns perfectly with the user's request for a unique futuristic setting, a focus on perception and mood, and thought-provoking themes.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback about the previous recommendation and provides alternatives that fit the new criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique setting, perception, mood) to the specific preferences the user just stated.",
+    "explainability_score": 5,
+    "idx": 280
+  },
+  {
+    "relevance_reasoning": "The movie 'The Lighthouse' aligns with the user's request for well-written characters, gripping storytelling, and a unique visual style, and it has not been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a new recommendation after rejecting previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences the user stated throughout the conversation.",
+    "explainability_score": 5,
+    "idx": 281
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the user's latest request for over-the-top action, gore, and themes of humanity and redemption.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's refined preferences from the previous turn.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (intense action, exploration of humanity/redemption) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 282
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Tree of Life' aligns with the user's request for experimental nature, power in scenes, and audacious plotlines.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific feedback and preferences from the last turn while maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's experimental narrative and powerful storytelling to the user's stated preferences for audacious plotlines and experimental films.",
+    "explainability_score": 5,
+    "idx": 283
+  },
+  {
+    "relevance_reasoning": "The recommendation matches the 'ragtag group' and 'absurd humor' preferences, but fails the 'clean' requirement as The Hangover is rated R for strong language and sexual content.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for a funny action comedy with a ragtag group.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (ragtag group, absurd humor) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 284
+  },
+  {
+    "relevance_reasoning": "The movie is a Western (requested earlier) and fits the latest request for a great cast and a memorable score (Ennio Morricone).",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's latest request for music and cast while returning to the Western genre the user previously expressed interest in.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's specific requests for talented actors and a memorable score.",
+    "explainability_score": 5,
+    "idx": 285
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for humor, great performances, and humorous fight scenes.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's most recent request for a different vibe involving unintentional laughs and humorous fights.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (humor, performances, fight scenes) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 286
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for movies similar to the one with Robin Williams and Gene Hackman (likely referring to 'The Birdcage'), emphasizing hilarious performances and great comedic moments; 'The World's End' is a comedy, but it doesn't quite capture the specific vibe of a Robin Williams/Gene Hackman dynamic.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant responds directly to the user's request for a comedy recommendation, though it ignores the specific reference to the Robin Williams/Gene Hackman movie.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification is generic and mentions 'strong performances' and 'humor' without explicitly linking them to the user's request for 'hilarious performances' or the specific movie reference.",
+    "explainability_score": 3,
+    "idx": 287
+  },
+  {
+    "relevance_reasoning": "The movie 'The Square' addresses taboo/social issues and is known for strong acting, aligning with the user's initial and subsequent requests for momentum and depth.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant acknowledges the user's dissatisfaction with previous suggestions and provides a new list that fits the requested criteria.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's exploration of social issues and strong performances to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 288
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for creative action scenes and impressive camera work, which 'The Theory of Everything' (a biographical drama) completely lacks.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant addresses the user's request for depth and emotional connection but ignores the primary preference for action and camera work established earlier.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification links the movie's emotional narrative and exposition to the user's request for depth and character development.",
+    "explainability_score": 4,
+    "idx": 289
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Gremlins: The New Baby' aligns with the user's explicit request for a horror-comedy mix with charismatic actors and a sharp screenplay.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's repeated request for a specific blend of horror and comedy after previous failures.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (horror/comedy, sharp screenplay, charismatic actors) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 290
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for brilliant performances, a warning-style story, and a more uplifting tone compared to Poltergeist.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for a recommendation with a more uplifting tone while maintaining the previous criteria.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for performances, a warning story, and the lack of a tragic tone.",
+    "explainability_score": 5,
+    "idx": 291
+  },
+  {
+    "relevance_reasoning": "The recommendation 'Am\u00e9lie' aligns perfectly with the user's request for a love story through a unique lens, the importance of relationships, and masterful acting, while avoiding the 'horrid subject matter' of the previous suggestion.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's feedback regarding the previous recommendation and pivots to the new set of preferences provided in the last turn.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the specific preferences the user stated in their last message.",
+    "explainability_score": 5,
+    "idx": 292
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for romance, suspense, and high production value, but it is a period piece rather than the 'contemporary setting' requested in the second turn.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant responds to the request for an upbeat/inspirational tone by suggesting a tragic romance, which is a slight mismatch in mood but follows the conversation flow.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (romance, suspense, cinematography) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 293
+  },
+  {
+    "relevance_reasoning": "The recommended movie aligns with the user's request for impactful stories, well-developed characters, and powerful themes.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's preferences expressed in the previous turn.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (love, resilience, intellectual achievement) to the user's stated preferences for powerful stories and well-developed characters.",
+    "explainability_score": 5,
+    "idx": 294
+  },
+  {
+    "relevance_reasoning": "The Dark Knight aligns with the user's request for great direction, magnificent performances, and high rewatch value, and it was not previously mentioned.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's latest request for specific cinematic qualities after rejecting previous suggestions.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly mirrors the user's stated preferences for direction, performance, pacing, and rewatch value.",
+    "explainability_score": 5,
+    "idx": 295
+  },
+  {
+    "relevance_reasoning": "The movie matches the user's request for a hilarious film with impressive special effects and a blend of comedy and violence.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response directly addresses the user's latest request for more comedy and violence compared to previous suggestions.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (comedy, violence, special effects) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 296
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns perfectly with the user's request for a blend of Disney-like enchantment and Tim Burton's dark whimsy.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's specific request for a new recommendation after rejecting previous ones.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes to the user's stated preferences for 'Disney twinkle' and 'dark whimsy'.",
+    "explainability_score": 5,
+    "idx": 297
+  },
+  {
+    "relevance_reasoning": "The movie 'The Square' aligns with the user's request for depth, profound storytelling, unique perspectives, and unexpected twists.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for more depth and profound storytelling compared to the previous lighthearted suggestion.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (unique perspective, twists, profound storytelling) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 298
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's request for a twist, great dialogue, and unconventional characters, and it has not been mentioned previously in the conversation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response directly addresses the user's request for something new after they rejected two previous suggestions.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (clever twist, sharp dialogue, unconventional behavior) to the specific preferences stated by the user.",
+    "explainability_score": 5,
+    "idx": 299
+  }
+]

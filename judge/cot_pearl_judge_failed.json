@@ -1,0 +1,6 @@
+[
+  {
+    "idx": 383,
+    "error": "[cot-pearl 13/300 idx=383] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

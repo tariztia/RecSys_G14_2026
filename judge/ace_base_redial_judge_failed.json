@@ -1,0 +1,58 @@
+[
+  {
+    "idx": 17,
+    "error": "[ace_base-redial 18/60 idx=17] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 39,
+    "error": "[ace_base-redial 40/60 idx=39] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 41,
+    "error": "[ace_base-redial 42/60 idx=41] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 43,
+    "error": "[ace_base-redial 44/60 idx=43] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 45,
+    "error": "[ace_base-redial 46/60 idx=45] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 47,
+    "error": "[ace_base-redial 48/60 idx=47] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 49,
+    "error": "[ace_base-redial 50/60 idx=49] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 50,
+    "error": "[ace_base-redial 51/60 idx=50] Se agotaron los reintentos: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  {
+    "idx": 51,
+    "error": "[ace_base-redial 52/60 idx=51] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 52,
+    "error": "[ace_base-redial 53/60 idx=52] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 54,
+    "error": "[ace_base-redial 55/60 idx=54] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 55,
+    "error": "[ace_base-redial 56/60 idx=55] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 56,
+    "error": "[ace_base-redial 57/60 idx=56] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 58,
+    "error": "[ace_base-redial 59/60 idx=58] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

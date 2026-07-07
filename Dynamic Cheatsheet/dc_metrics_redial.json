@@ -1,0 +1,15 @@
+{
+  "Recall@1": 0.05,
+  "Recall@5": 0.0933,
+  "MRR": 0.0658,
+  "n_evaluable": 300,
+  "novelty_mean": 9.8909,
+  "novelty_norm": 0.7628,
+  "unseen_rate": 0.2762,
+  "n_dialogos": 300,
+  "n_recs": 1488,
+  "precision": 0.8563,
+  "recall": 0.8547,
+  "f1": 0.8554,
+  "n_total": 300
+}

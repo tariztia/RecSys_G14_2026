@@ -1,0 +1,46 @@
+[
+  {
+    "idx": 1,
+    "error": "[ace_tools-redial 2/60 idx=1] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 3,
+    "error": "[ace_tools-redial 4/60 idx=3] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 6,
+    "error": "[ace_tools-redial 7/60 idx=6] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 8,
+    "error": "[ace_tools-redial 9/60 idx=8] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 9,
+    "error": "[ace_tools-redial 10/60 idx=9] Se agotaron los reintentos: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  {
+    "idx": 10,
+    "error": "[ace_tools-redial 11/60 idx=10] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 12,
+    "error": "[ace_tools-redial 13/60 idx=12] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 13,
+    "error": "[ace_tools-redial 14/60 idx=13] Se agotaron los reintentos: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}"
+  },
+  {
+    "idx": 14,
+    "error": "[ace_tools-redial 15/60 idx=14] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 16,
+    "error": "[ace_tools-redial 17/60 idx=16] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 17,
+    "error": "[ace_tools-redial 18/60 idx=17] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

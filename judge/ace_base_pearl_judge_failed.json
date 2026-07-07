@@ -1,0 +1,30 @@
+[
+  {
+    "idx": 6,
+    "error": "[ace_base-pearl 7/300 idx=6] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 7,
+    "error": "[ace_base-pearl 8/300 idx=7] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 63,
+    "error": "[ace_base-pearl 64/300 idx=63] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 64,
+    "error": "[ace_base-pearl 65/300 idx=64] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 68,
+    "error": "[ace_base-pearl 69/300 idx=68] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 207,
+    "error": "[ace_base-pearl 208/300 idx=207] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 264,
+    "error": "[ace_base-pearl 265/300 idx=264] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

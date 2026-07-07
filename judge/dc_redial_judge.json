@@ -1,0 +1,524 @@
+[
+  {
+    "relevance_reasoning": "The user expressed a desire for movies that make them laugh and get them scared or on edge, and The Belko Experiment blends horror/thriller elements with dark humor.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides recommendations despite the user saying 'bye', which is a bit abrupt, but it directly addresses the movie request from earlier in the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's 'hilarious' and 'intense' nature to the user's request to laugh and be on edge.",
+    "explainability_score": 5,
+    "idx": 636
+  },
+  {
+    "relevance_reasoning": "The user requested mystery movies and likes 'Seven' and 'The Prestige', and 'The Others' fits the mystery genre and the 'twist' theme of their favorites.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides recommendations after the user had already said goodbye, making the response feel out of place and disconnected from the conversation flow.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification mentions it is a 'chilling mystery with a unique twist', which aligns with the user's preference for mysteries and their love for 'The Prestige' (known for its twist), though it doesn't explicitly name the movie 'The Prestige'.",
+    "explainability_score": 4,
+    "idx": 570
+  },
+  {
+    "relevance_reasoning": "The first recommended title, Coco, was already mentioned by the assistant earlier in the conversation, violating the anti-echo rule.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The response is a bit abrupt as the user had already said 'thank you' and the assistant had said 'anytime', effectively ending the conversation before this recommendation was sent.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie's themes but does not explicitly link them to the user's specific request for movies like Tangled.",
+    "explainability_score": 3,
+    "idx": 522
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated they are a holiday lover and like Christmas movies, and The Holiday (2006) fits this preference perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response follows the user's request for more suggestions and builds on the established theme of holiday movies.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification links the movie's attributes (Christmas comedy) directly to the user's stated preference for Christmas movies.",
+    "explainability_score": 5,
+    "idx": 321
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in comedy and action; The Mole is a dark comedy, which aligns with the user's stated preferences.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant abruptly switches from discussing 'San Andreas' and 'The Rock' to recommending a list of movies without any transitional phrasing.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification links the movie's genre (dark comedy) to the user's stated preference for comedy.",
+    "explainability_score": 4,
+    "idx": 235
+  },
+  {
+    "relevance_reasoning": "The user had already concluded the conversation and decided on a movie, and the new recommendation of The Intern does not align with the specific request for Will Ferrell or the user's preference for being scared/laughing as strongly as previous options.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The assistant ignores the fact that the user had already said goodbye and ended the conversation, making this response completely out of place.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification is generic and does not link back to any specific preference mentioned by the user in the conversation history.",
+    "explainability_score": 2,
+    "idx": 1232
+  },
+  {
+    "relevance_reasoning": "The user expressed a love for musicals and comedies, and The Wiz fits both genres perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides recommendations after the user has already said goodbye, which breaks the natural flow of the conversation.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification explicitly links the movie's musical and comedic elements to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 203
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in 'The Purge' and accepted crime/action thrillers, but 'The Nice Guys' is a comedy which is a shift in tone, though still within the action realm.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant provides new recommendations after the user had already said goodbye and ended the conversation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification is generic and describes the movie's attributes without linking them to any specific preference mentioned by the user.",
+    "explainability_score": 2,
+    "idx": 1329
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for action movies similar to X-Men, and The Equalizer is a high-intensity action film, though it lacks the superhero element.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant's message feels like a sudden pivot after it had already concluded the conversation with 'I hope I helped you find some great movies'.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions it is a 'thrilling action film', which links to the user's request for action movies, but it is somewhat generic.",
+    "explainability_score": 4,
+    "idx": 953
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for dark comedies, and The Big Lebowski fits this genre preference perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a new recommendation after the user expressed satisfaction with a previous one, though the conversation had seemingly ended with 'good bye'.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification links the movie's attributes (quirky, hilarious dark comedy) directly to the user's request for dark comedies.",
+    "explainability_score": 5,
+    "idx": 79
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated they like action movies, and The Equalizer is a highly relevant action film that has not been mentioned yet.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant's message is completely disconnected from the previous turn where the assistant had already said goodbye and ended the conversation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification is generic and does not link specific attributes of the movie to the user's specific preferences beyond the general genre.",
+    "explainability_score": 2,
+    "idx": 75
+  },
+  {
+    "relevance_reasoning": "The user expressed a love for fun 80s movies and comedies, and while The Death of Stalin is a comedy, it is a stark departure from the lighthearted tone of the user's favorites.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant ignores the user's closing statement about having enough movies to watch and abruptly introduces a new recommendation without a transition.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie's attributes but does not link them to any specific preference mentioned by the user.",
+    "explainability_score": 3,
+    "idx": 217
+  },
+  {
+    "relevance_reasoning": "The user expressed a clear preference for alien movies, but the assistant recommended a dark fantasy/horror film that does not feature aliens.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The user was ending the conversation by thanking the assistant for a previous recommendation, making this sudden list of horror movies feel disjointed and out of place.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions fantasy and horror, neither of which were requested or discussed by the user.",
+    "explainability_score": 2,
+    "idx": 512
+  },
+  {
+    "relevance_reasoning": "The user expressed a love for space-themed movies like The Martian and Mission to Mars, and the recommendation fits this theme.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides recommendations after the user had already said goodbye and ended the conversation, making the response feel out of place.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification links the movie's attributes (space exploration) to the user's established preference for space movies.",
+    "explainability_score": 4,
+    "idx": 542
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated a preference for westerns and dramas at the start of the conversation, and the first recommendation fits both genres.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant interrupts a goodbye sequence to provide a new list of recommendations without a clear transition from the user's last statement about seeing 'The Happening'.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification links the movie's genre (western) and attributes (character development/emotional resonance) to the user's initial preference for westerns and dramas.",
+    "explainability_score": 5,
+    "idx": 1146
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated they like mob movies, and The Irishman is a quintessential mob movie that hasn't been mentioned yet.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides recommendations after the user had previously expressed a preference for mob movies, although the conversation had seemingly reached a closing point.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification links the movie's genre (mob drama) directly to the user's stated preference for 'moob movies'.",
+    "explainability_score": 5,
+    "idx": 67
+  },
+  {
+    "relevance_reasoning": "The recommendation of The Wicker Man aligns with the user's preference for subtle horror and their appreciation for older classics like The Birds and Rosemary's Baby.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a recommendation after previously stating it had no more suggestions, which is a bit abrupt but follows the user's expressed tastes.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's 'subtle horror' attribute to the user's stated preference for subtlety.",
+    "explainability_score": 5,
+    "idx": 1266
+  },
+  {
+    "relevance_reasoning": "The recommendation aligns with the user's preference for thrillers and specifically mirrors the unsettling, psychological style of 'Nocturnal Animals', which the user explicitly mentioned loving.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response is slightly disjointed as the user had already said goodbye, but it provides the 'couple more' recommendations requested earlier in the conversation.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification links the movie's genre (psychological thriller) and tone (unsettling) to the user's expressed interest in thrillers and their taste for 'Nocturnal Animals'.",
+    "explainability_score": 5,
+    "idx": 465
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for science fiction and 'hard' science fiction, and Arrival fits this genre well, though it lacks the specific 'space ship combat' mentioned earlier.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant pivots back to sci-fi recommendations after a brief detour into the Dark Knight trilogy, which is a natural transition.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification mentions specific themes of the movie (time and communication) but does not explicitly link them to a specific preference stated by the user.",
+    "explainability_score": 3,
+    "idx": 948
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in mysteries and crime movies like Seven and Hannibal, and The Girl with the Dragon Tattoo fits these preferences perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a new recommendation after the user had already decided to watch Zodiac, which feels slightly redundant but still follows the theme of the conversation.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification mentions it is a gripping mystery, which aligns with the user's request for a mystery, but it is somewhat generic.",
+    "explainability_score": 4,
+    "idx": 516
+  },
+  {
+    "relevance_reasoning": "The user expressed a strong preference for romantic comedies like Pretty Woman and When Harry Met Sally, and The Proposal fits this genre perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a recommendation list in response to the user's request for movies 'like that', following the flow of the conversation.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification describes the movie's attributes (charming rom-com, witty dialogue) which align with the user's stated taste, though it doesn't explicitly quote the user's previous examples.",
+    "explainability_score": 4,
+    "idx": 1017
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in horror movies through their positive reactions to previous suggestions, and The Wailing fits this pattern perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant ignores the user's explicit statement that they have to go and are leaving the conversation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification describes the movie's attributes but does not explicitly link them to any specific preference stated by the user.",
+    "explainability_score": 3,
+    "idx": 1326
+  },
+  {
+    "relevance_reasoning": "The user expressed a love for comedies and 'silly' humor, and The Intern fits the comedy genre, though it is more heartwarming than the 'corny' or 'silly' style of Deadpool.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides recommendations following the user's expression of liking comedies and cartoons, though it ignores the specific mention of Moana.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification mentions 'humor' and 'comedy', which links to the user's stated preference for comedy and laughing, but it is somewhat generic.",
+    "explainability_score": 4,
+    "idx": 642
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated they like movies made by Adam Sandler, and The Waterboy is a quintessential Adam Sandler film.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides recommendations based on the user's stated preference for Adam Sandler, though it ignores the user's closing remarks about ending the chat.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's humor and the actor to the user's stated preference for Adam Sandler.",
+    "explainability_score": 5,
+    "idx": 14
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for raunchy/ensemble comedies like Game Night and Girls Trip, but The Intern is a mild, heartfelt comedy which is a shift in tone, though still within the comedy genre.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant recommends movies immediately after the user said 'bye', which is a jarring break in the flow of the conversation.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification 'heartfelt comedy with strong character development' is a generic description of the movie and does not link back to any specific preference mentioned by the user.",
+    "explainability_score": 2,
+    "idx": 368
+  },
+  {
+    "relevance_reasoning": "The first recommended title, The Waterboy, was already mentioned by the user earlier in the conversation, violating the anti-echo rule.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant ignores the user's farewell and attempts to provide a list of recommendations after the user already said goodbye.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification links the movie to the user's preference for Adam Sandler comedies, but it is generic and doesn't reference specific preferences beyond the actor.",
+    "explainability_score": 4,
+    "idx": 954
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in action classics like The Terminator and Rocky, and Mad Max fits this profile perfectly without having been mentioned previously.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a recommendation after the user had essentially ended the conversation, which feels slightly abrupt but still follows the thematic thread of the discussion.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification mentions 'gritty' and 'action-packed', which aligns with the user's preference for The Terminator and Rocky, though it doesn't explicitly quote the user's words.",
+    "explainability_score": 4,
+    "idx": 776
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Nice Guys' perfectly aligns with the user's stated preference for action and comedy and has not been mentioned previously in the conversation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant transitions from the discussion about Avengers to a new recommendation that fits the user's taste, maintaining a natural flow.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (hilarious action comedy) to the user's stated favorite genres.",
+    "explainability_score": 5,
+    "idx": 357
+  },
+  {
+    "relevance_reasoning": "The user specifically asked for World War 2 movies and epic historical pieces, but The Fugitive is a 90s crime thriller, not a historical piece.",
+    "relevance_score": 1,
+    "coherence_reasoning": "The assistant's response ignores the flow of the conversation, which had just reached a closing point, and suddenly pivots to a recommendation list without a transition.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification calls the movie a 'historical drama', which is factually incorrect for The Fugitive, and does not link to any specific user preference other than a generic genre label.",
+    "explainability_score": 2,
+    "idx": 504
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated a love for children's movies and Pixar classics like Finding Nemo and Toy Story, making The Incredibles a perfect fit.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The recommendation follows the user's expression of wanting a movie marathon of children's films, though it comes after a closing sentiment from the assistant.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification mentions 'family adventure', 'character development', and 'humor', which are general attributes of the genre the user likes, but doesn't explicitly link them to a specific preference mentioned in the text.",
+    "explainability_score": 3,
+    "idx": 769
+  },
+  {
+    "relevance_reasoning": "The user expressed a love for comedy, and while The Pursuit of Happyness has comedic elements, it is primarily a drama and doesn't strongly align with the specific comedic tone of Coming to America or the action/horror preferences mentioned.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant provides recommendations after the user said 'bye', which is a jarring break in the conversation flow.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification mentions it is a 'heartfelt comedy-drama', which links to the user's stated love for comedy, but it is a generic description of the movie rather than a deep connection to the user's specific tastes.",
+    "explainability_score": 4,
+    "idx": 215
+  },
+  {
+    "relevance_reasoning": "The user expressed a general interest in 'everything' and liked action/comedy, but the assistant recommends a slow-paced drama without any specific prompt from the user to change genres.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The response is a sudden shift in tone and content, ignoring the user's previous statement that they were finished and thankful.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie's plot but does not link it to any specific preference expressed by the user.",
+    "explainability_score": 3,
+    "idx": 865
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for comedy and family movies, and The Intern fits both categories perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a final set of recommendations after the user expressed willingness to try previous suggestions, though it follows a 'have a great day' sign-off which is slightly abrupt.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (heartwarming comedy, family themes) to the user's stated preferences.",
+    "explainability_score": 5,
+    "idx": 224
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for raunchy/slapstick comedies like Dumb and Dumber and Superbad, and The Big Lebowski fits the comedy genre well.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides recommendations after the user had already said goodbye, making the response feel disjointed and out of place in the conversation flow.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie as a 'quirky comedy' but does not explicitly link these attributes to the user's specific mentioned movies or preferences.",
+    "explainability_score": 3,
+    "idx": 818
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for horror movies like Halloween, and Hereditary is a highly-regarded modern horror film.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a new recommendation after the user had already said goodbye, making the response feel out of place and disruptive to the conversation flow.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification describes the movie's attributes but does not explicitly link them back to the user's specific request for movies like Halloween.",
+    "explainability_score": 3,
+    "idx": 784
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for 'The Devil's Rejects', but 'The Death of Stalin' is a political satire and does not share the same genre or tone as the gritty crime/horror of the Rejects.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The assistant completely ignores the user's last question about 'La Vie en rose' and abruptly switches to a new recommendation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The assistant attempts to link the movie to 'The Devil's Rejects', but the comparison ('darkly comedic take on political power struggles') is not a characteristic of 'The Devil's Rejects'.",
+    "explainability_score": 3,
+    "idx": 613
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in thrillers and scary movies and specifically loved 'Buried', which shares the claustrophobic, high-tension thriller vibe of 'The Platform'.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a concrete recommendation after the user expressed uncertainty about what to watch, following a discussion about thrillers.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification mentions it is a 'gripping dystopian thriller', which aligns with the user's stated preference for thrillers, though it doesn't explicitly reference 'Buried'.",
+    "explainability_score": 4,
+    "idx": 103
+  },
+  {
+    "relevance_reasoning": "The user expressed a strong preference for high-quality animated films (Coco, Incredibles, Moana, WALL-E, Up), and Spider-Verse fits this genre and quality profile perfectly.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides a recommendation list following a conversation where the user discussed their love for various animated movies, though the transition is slightly abrupt.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification mentions it is 'visually stunning and emotionally rich', which aligns with the user's appreciation for 'special' and 'tear jerker' animated films, though it doesn't quote a specific preference.",
+    "explainability_score": 4,
+    "idx": 1040
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for more Bruce Willis movies and action/war films; the first recommendation does not feature Bruce Willis.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant ignores the user's 'goodnight' and 'that should do it' signals, forcing a recommendation after the user tried to end the conversation.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification is generic and does not reference the user's specific request for Bruce Willis or their preference for heist-style action movies like Heat and The Town.",
+    "explainability_score": 2,
+    "idx": 1213
+  },
+  {
+    "relevance_reasoning": "The user agreed to crime movies, but The Death of Stalin is a political satire/comedy and doesn't fit the established crime/thriller preference.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The assistant abruptly switches genres from crime/psychological thrillers to dark comedies without any transition or explanation.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie's plot and tone but does not link it to any preference expressed by the user.",
+    "explainability_score": 3,
+    "idx": 282
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in heist movies similar to Baby Driver, and The Nice Guys fits the action-comedy/crime vibe well.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides recommendations after the user had essentially ended the conversation with a farewell, making the timing slightly awkward but still responding to the overall goal.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification explicitly links the movie's 'heist vibe' and 'action-comedy' nature to the user's previous interest in Baby Driver.",
+    "explainability_score": 5,
+    "idx": 862
+  },
+  {
+    "relevance_reasoning": "The user expressed no specific preferences and was ending the conversation, making this random recommendation neither aligned nor contradictory, but it ignores the context of the conversation's end.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant ignores the user's farewell ('Thanks, bye') and suddenly provides a list of recommendations, breaking the flow of the conversation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification is generic and not linked to any preference expressed by the user, as the user never mentioned mystery or comedy.",
+    "explainability_score": 2,
+    "idx": 185
+  },
+  {
+    "relevance_reasoning": "The user expressed a love for high-action movies like Den of Thieves, but the assistant recommends a political satire, which ignores the established taste pattern.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The assistant provides recommendations after the user had already said goodbye and ended the conversation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification describes the movie's attributes but does not link them to any specific preference mentioned by the user.",
+    "explainability_score": 3,
+    "idx": 1246
+  },
+  {
+    "relevance_reasoning": "The user expressed liking The Dark Knight, but The Fabelmans is a coming-of-age drama that shares almost no thematic or stylistic attributes with a gritty superhero crime drama.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The assistant's message is completely disconnected from the previous turn where the user said 'Thanks a bunch!' and the assistant said 'happy viewing!', effectively ending the conversation.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification claims a similarity in 'storytelling' between a personal drama and a superhero movie, which is a generic and vague connection not tied to specific preferences.",
+    "explainability_score": 2,
+    "idx": 675
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for 'end of the world' movies and specifically enjoyed 'This Is the End', which is a dark comedy, making a darkly comedic apocalypse movie highly relevant.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response follows the theme of the conversation and provides a list of recommendations after the user thanked the assistant for previous suggestions.",
+    "coherence_score": 4,
+    "explainability_reasoning": "The justification explicitly links the movie's 'darkly comedic take on the apocalypse' to the user's previously stated enjoyment of 'This Is the End'.",
+    "explainability_score": 5,
+    "idx": 824
+  },
+  {
+    "relevance_reasoning": "The recommendation 'The Belko Experiment' is highly relevant as it shares the same 'deadly game/social experiment' premise as 'The Purge', which the user explicitly mentioned liking.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The response is abrupt and ignores the fact that the conversation had already reached a closing phase ('till next time'), making it feel disjointed.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie's genre and tone but does not explicitly link these attributes back to the user's stated preference for 'The Purge'.",
+    "explainability_score": 3,
+    "idx": 1300
+  },
+  {
+    "relevance_reasoning": "The user previously asked for a comedy, and the assistant recommends a dark comedy, which aligns with the user's request.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides a new recommendation after the user had already said 'Have a great day!', making the response feel disjointed and out of place in the conversation flow.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie's attributes (darkly comedic, political power) but does not explicitly link them back to the user's specific request for a comedy.",
+    "explainability_score": 3,
+    "idx": 449
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in small budget horror/thrillers and silly B-movies, and The Wicker Man fits the horror genre and budget profile.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides recommendations after the user said 'Have a good one', which is a closing statement, making the response feel out of place.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions it is a chilling horror film with a twist, but does not explicitly link these attributes to the user's specific request for small budget or 'silly' films.",
+    "explainability_score": 3,
+    "idx": 163
+  },
+  {
+    "relevance_reasoning": "The user expressed interest in scary movies and mysteries, and The Lighthouse fits both the horror and psychological mystery themes.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides recommendations after the user had already said goodbye and ended the conversation, which breaks the flow of the interaction.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie's attributes but does not explicitly link them to the user's specific mentions of The Ring or Fracture.",
+    "explainability_score": 3,
+    "idx": 110
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for action movies, and The Bourne Identity is a highly relevant action thriller.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response completely contradicts the assistant's previous turn where it said 'Nope' and told the user to have a great day, creating a jarring break in flow.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification describes the movie as a 'fantastic action thriller', which is a generic description and not tied to any specific preference other than the general genre request.",
+    "explainability_score": 3,
+    "idx": 531
+  },
+  {
+    "relevance_reasoning": "The user explicitly stated a preference for romantic comedies and liked 'How to Lose a Guy in 10 Days', making 'The Proposal' a highly relevant recommendation.",
+    "relevance_score": 5,
+    "coherence_reasoning": "The assistant provides new recommendations following the user's positive feedback on previous suggestions, maintaining the flow of the conversation.",
+    "coherence_score": 5,
+    "explainability_reasoning": "The justification describes the movie's attributes (charming, witty, heartfelt) which align with the romantic comedy genre the user requested, though it doesn't reference a specific previous movie mentioned by the user.",
+    "explainability_score": 4,
+    "idx": 666
+  },
+  {
+    "relevance_reasoning": "The user explicitly asked for funny, action, or family movies, and The Secret Life of Pets fits both the funny and family categories.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides a recommendation after the user said 'thanks bye', which is a bit late, but it follows the established preference for family/funny films.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification explicitly links the movie's attributes (funny, family) to the preferences the user stated earlier in the conversation.",
+    "explainability_score": 5,
+    "idx": 187
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for comedy, and The Intern is a comedy, though it ignores the user's interest in action and horror mentioned earlier.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The response is completely disconnected from the conversation, as the user had already said 'thanks bye!' to end the interaction.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification mentions comedic moments, which links to the user's stated preference for comedy.",
+    "explainability_score": 4,
+    "idx": 232
+  },
+  {
+    "relevance_reasoning": "The user specifically requested horror musicals, and while The Witches has dark fantasy/horror elements, it is not a musical, making it a poor match for the core preference.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The response follows the general theme of the conversation but ignores the fact that the user had already thanked the assistant and ended the interaction.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The assistant claims the movie is a 'musical', which is factually incorrect, thus the justification is based on a false premise rather than a real link to user preferences.",
+    "explainability_score": 2,
+    "idx": 1027
+  },
+  {
+    "relevance_reasoning": "The user expressed a love for horror films, and Hereditary is a highly acclaimed horror movie that fits the genre preference.",
+    "relevance_score": 4,
+    "coherence_reasoning": "The assistant provides a recommendation even though the user said 'Thanks a lot for your time', which usually signals the end of the conversation, making the response feel slightly forced.",
+    "coherence_score": 3,
+    "explainability_reasoning": "The justification describes the movie's attributes (chilling, emotionally intense) but does not explicitly link them to the user's specific taste in slasher-style horror like Scream.",
+    "explainability_score": 3,
+    "idx": 831
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for high-action sci-fi like The Matrix and John Wick, and while Her is sci-fi, it is a slow-paced drama that ignores the action element the user enjoyed.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant provides a new list of recommendations immediately after the user said 'thank you' and ended the conversation, which feels abrupt and disconnected from the closing tone.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification links the movie's theme of technology to the user's interest in The Matrix, but it is a generic thematic link rather than a specific match to the user's taste for action.",
+    "explainability_score": 4,
+    "idx": 378
+  },
+  {
+    "relevance_reasoning": "The user expressed a strong preference for action movies specifically involving cars, but The Bourne Identity is a general action thriller that doesn't center on car culture like the Fast & Furious series.",
+    "relevance_score": 3,
+    "coherence_reasoning": "The assistant provides recommendations after the user had already said 'take care' and ended the conversation, making the response an abrupt and unnecessary addition.",
+    "coherence_score": 1,
+    "explainability_reasoning": "The justification is generic and describes the movie's quality rather than linking it to the user's specific interest in cars or the Fast & Furious style.",
+    "explainability_score": 2,
+    "idx": 844
+  },
+  {
+    "relevance_reasoning": "The user expressed a preference for 80s coming-of-age adventure films with kids (The Goonies, Stand by Me, The Sandlot), but The Waterboy is a late 90s sports comedy that doesn't fit the specific 'kids on an adventure' theme.",
+    "relevance_score": 2,
+    "coherence_reasoning": "The assistant ignores the established theme of the conversation and the user's specific taste in 80s adventure films, pivoting abruptly to generic comedies.",
+    "coherence_score": 2,
+    "explainability_reasoning": "The justification mentions 'adventurous comedy' and 'underdog story', but these are generic attributes not explicitly linked to the user's stated love for Goonies-style kid adventures.",
+    "explainability_score": 3,
+    "idx": 808
+  }
+]

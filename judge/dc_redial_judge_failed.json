@@ -1,0 +1,10 @@
+[
+  {
+    "idx": 254,
+    "error": "[dc-redial 1/60 idx=254] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 63,
+    "error": "[dc-redial 2/60 idx=63] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "idx": 36,
+    "error": "[ace_tools-pearl 37/60 idx=36] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 38,
+    "error": "[ace_tools-pearl 39/60 idx=38] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 39,
+    "error": "[ace_tools-pearl 40/60 idx=39] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]

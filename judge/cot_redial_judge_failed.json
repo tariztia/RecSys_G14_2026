@@ -1,0 +1,10 @@
+[
+  {
+    "idx": 162,
+    "error": "[cot-redial 142/300 idx=162] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  },
+  {
+    "idx": 561,
+    "error": "[cot-redial 139/300 idx=561] Se agotaron los reintentos: 500 INTERNAL. {'error': {'code': 500, 'message': 'Internal error encountered.', 'status': 'INTERNAL'}}"
+  }
+]
