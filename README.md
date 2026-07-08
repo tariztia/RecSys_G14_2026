@@ -9,7 +9,7 @@ utils.ipynb                  # pipeline común: descarga/parseo de ReDial y PEAR
 analisis_datasets.ipynb      # análisis exploratorio de ambos datasets (requiere utils.ipynb)
 
 CoT/                         # baseline Chain-of-Thought
-Reflexion/                   # método Reflexion (Shinn et al. 2023)
+Reflexion/                   # método Reflexion
 Dynamic Cheatsheet/          # método Dynamic Cheatsheet (incluye los cheatsheets .txt generados)
 ace/                         # método ACE (Agentic Context Engineering)
   ace_base.ipynb             #   ACE sin tools   — DATASET="redial" por defecto
@@ -19,10 +19,8 @@ ace/                         # método ACE (Agentic Context Engineering)
 
 judge/                       # scores del juez LLM (Gemini), un archivo por método × dataset (+ *_failed.json)
 llm_judge.ipynb              # corre el juez LLM sobre las predicciones de cada método
-llm_judge_analysis.ipynb     # consolida judge/*.json y corre estadística (Friedman/Wilcoxon, Kruskal-Wallis)
+llm_judge_analysis.ipynb     # analisis resultados judge/*.json
 
-Datasets/pearl_test.json     # copia cacheada de referencia; el pipeline en realidad descarga los
-                              # datasets automáticamente a la carpeta de trabajo (ver más abajo), no lee de aquí
 ```
 
 Cada carpeta de método guarda, junto al notebook, sus artefactos por dataset: `*_results_{redial,pearl}.json`, `*_metrics_{redial,pearl}.json`, y `*_buffer_*` / `*_playbook_*` cuando el método acumula memoria (Reflexion, Dynamic Cheatsheet, ACE).
